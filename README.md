@@ -1,1 +1,1 @@
-# semester_project
+This is my semester project for STAT 386. The Houston Astros have been to seven straight ALCS's and have played in the World Series 4 times over that time period. The Astros success over the last seven years is referred to by Astros' fans such as myself as the "Golden Era" of Astros baseball. In my project, I dive into the data over the last seven seasons (2017 - 2023).
