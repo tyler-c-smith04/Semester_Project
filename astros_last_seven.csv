@@ -1,0 +1,1033 @@
+Gm#,Date,Tm,Opp,W/L,R,RA,Inn,W-L,Rank,GB,Win,Loss,Save,Time,D/N,Attendance,cLI,Streak,Season
+1,"Thursday, Mar 30",HOU,CHW,L,2,3,,0-1,4,1.0,Graveman,Pressly,López,2:38,N,"43,032",.92,-,2023
+2,"Friday, Mar 31",HOU,CHW,W,6,3,,1-1,3,0.5,Martinez,Graveman,Montero,2:40,N,"41,453",.92,+,2023
+3,"Saturday, Apr 1",HOU,CHW,W,6,4,,2-1,2,0.5,Stanek,Kelly,Neris,3:11,D,"37,519",.93,++,2023
+4,"Sunday, Apr 2",HOU,CHW,L,3,6,,2-2,3,1.5,Clevinger,Garcia,,3:06,D,"42,835",1.00,-,2023
+5,"Monday, Apr 3",HOU,DET,L,6,7,11,2-3,3,1.5,Wingenter,Neris,Hill,3:21,N,"29,272",.93,--,2023
+6,"Tuesday, Apr 4",HOU,DET,L,3,6,,2-4,4,1.5,Manning,Valdez,,2:32,N,"30,613",.87,---,2023
+7,"Wednesday, Apr 5",HOU,DET,W,8,2,,3-4,3,1.5,Javier,Rodriguez,,2:35,D,"37,932",.84,+,2023
+8,"Friday, Apr 7",HOU,MIN,L-wo,2,3,10,3-5,3,1.5,López,Stanek,,2:47,D,"38,465",.89,-,2023
+9,"Saturday, Apr 8",HOU,MIN,L,6,9,,3-6,4,2.5,Ryan,Martinez,Duran,2:27,D,"26,330",.87,--,2023
+10,"Sunday, Apr 9",HOU,MIN,W,5,1,,4-6,3,1.5,Brown,Mahle,,2:33,D,"14,316",.80,+,2023
+11,"Monday, Apr 10",HOU,PIT,W,8,2,,5-6,3,1.5,Valdez,Contreras,,2:39,N,"10,222",.82,++,2023
+12,"Tuesday, Apr 11",HOU,PIT,L-wo,4,7,,5-7,3,2.5,Bednar,Pressly,,2:30,N,"9,996",.87,-,2023
+13,"Wednesday, Apr 12",HOU,PIT,W,7,0,,6-7,3,1.5,Urquidy,Hill,,2:51,D,"10,064",.83,+,2023
+14,"Friday, Apr 14",HOU,TEX,L,2,6,,6-8,3,2.5,Pérez,Garcia,,2:46,N,"39,343",.98,-,2023
+15,"Saturday, Apr 15",HOU,TEX,W,8,2,,7-8,3,1.5,Brown,Ragans,,2:35,N,"39,257",.96,+,2023
+16,"Sunday, Apr 16",HOU,TEX,L,1,9,,7-9,4,2.5,Burke,Valdez,,2:59,N,"39,122",.98,-,2023
+17,"Monday, Apr 17",HOU,TOR,W,9,2,,8-9,3,2.5,Javier,Gausman,,2:45,N,"30,873",.85,+,2023
+18,"Tuesday, Apr 18",HOU,TOR,L,2,4,,8-10,3,3.5,Bassitt,Urquidy,Romano,2:47,N,"32,602",.92,-,2023
+19,"Wednesday, Apr 19",HOU,TOR,W,8,1,,9-10,3,3.5,Garcia,Berríos,,2:24,N,"40,545",.86,+,2023
+20,"Friday, Apr 21",HOU,ATL,W,6,4,,10-10,2,2.5,Neris,Minter,Pressly,2:50,N,"41,397",.89,++,2023
+21,"Saturday, Apr 22",HOU,ATL,W,6,3,,11-10,2,2.5,Valdez,Wright,Abreu,2:22,N,"42,399",.89,+++,2023
+22,"Sunday, Apr 23",HOU,ATL,W,5,2,,12-10,2,2.5,Neris,Minter,Abreu,2:52,D,"41,530",.93,++++,2023
+23,"Monday, Apr 24",HOU,TBR,L,3,8,,12-11,2,2.5,Bradley,Urquidy,,2:46,N,"10,611",1.00,-,2023
+24,"Tuesday, Apr 25",HOU,TBR,W,5,0,,13-11,2,1.5,Garcia,Rasmussen,,2:44,N,"9,916",1.00,+,2023
+25,"Wednesday, Apr 26",HOU,TBR,W,1,0,,14-11,2,0.5,Brown,Faucher,Pressly,2:07,N,"14,168",1.07,++,2023
+26,"Friday, Apr 28",HOU,PHI,L,1,3,,14-12,2,1.0,Nola,Valdez,Alvarado,2:26,N,"40,719",1.08,-,2023
+27,"Saturday, Apr 29",HOU,PHI,L,1,6,,14-13,2,2.0,Wheeler,Javier,,2:51,D,"41,240",1.03,--,2023
+28,"Sunday, Apr 30",HOU,PHI,W,4,3,,15-13,2,2.0,Urquidy,Falter,Pressly,2:46,N,"41,669",.95,+,2023
+29,"Monday, May 1",HOU,SFG,W,7,3,,16-13,2,1.5,Stanek,Hjelle,,2:38,N,"30,915",.98,++,2023
+30,"Tuesday, May 2",HOU,SFG,L,0,2,,16-14,2,2.5,DeSclafani,Brown,Doval,2:39,N,"31,701",1.02,-,2023
+31,"Wednesday, May 3",HOU,SFG,L,2,4,,16-15,3,2.5,Webb,Valdez,Doval,2:14,D,"40,405",.98,--,2023
+32,"Friday, May 5",HOU,SEA,W,6,4,,17-15,3,1.5,Abreu,Brash,Pressly,2:23,N,"32,944",1.02,+,2023
+33,"Saturday, May 6",HOU,SEA,L,5,7,,17-16,3,2.5,Saucedo,Montero,,2:35,N,"40,328",1.06,-,2023
+34,"Sunday, May 7",HOU,SEA,L,1,3,,17-17,3,3.5,Miller,Bielak,Topa,2:42,D,"42,277",1.02,--,2023
+35,"Monday, May 8",HOU,LAA,L,4,6,,17-18,3,4.5,Moore,Montero,Estévez,2:29,N,"26,064",1.06,---,2023
+36,"Tuesday, May 9",HOU,LAA,W,3,1,,18-18,3,3.5,Valdez,Ohtani,Pressly,2:16,N,"29,018",.96,+,2023
+37,"Wednesday, May 10",HOU,LAA,W,5,4,,19-18,3,3.5,Javier,Canning,Pressly,2:38,D,"20,420",1.03,++,2023
+38,"Friday, May 12",HOU,CHW,W,5,1,,20-18,3,3.0,France,Kopech,,2:39,N,"18,673",.95,+++,2023
+39,"Saturday, May 13",HOU,CHW,L,1,3,,20-19,3,4.0,Kelly,Montero,Graveman,2:37,N,"23,242",.99,-,2023
+40,"Sunday, May 14",HOU,CHW,W,4,3,,21-19,2,4.0,Brown,Giolito,Pressly,2:33,D,"18,347",.93,+,2023
+41,"Monday, May 15",HOU,CHC,W,6,4,,22-19,2,3.0,Montero,Fulmer,Neris,2:35,N,"35,413",.97,++,2023
+42,"Tuesday, May 16",HOU,CHC,W,7,3,,23-19,2,3.0,Javier,Steele,,2:19,N,"34,280",1.05,+++,2023
+43,"Wednesday, May 17",HOU,CHC,W-wo,7,6,,24-19,2,2.0,Abreu,Hughes,,2:50,N,"35,749",1.06,++++,2023
+44,"Friday, May 19",HOU,OAK,W,5,1,,25-19,2,2.0,Bielak,Waldichuk,,2:48,N,"34,931",1.16,+++++,2023
+45,"Saturday, May 20",HOU,OAK,W,3,2,,26-19,2,2.0,Neris,Lovelady,Pressly,2:35,D,"35,475",1.09,++++++,2023
+46,"Sunday, May 21",HOU,OAK,W,2,0,,27-19,2,2.0,Valdez,Kaprielian,,2:26,D,"39,820",1.17,+++++++,2023
+47,"Monday, May 22",HOU,MIL,W,12,2,,28-19,2,1.0,Javier,Burnes,,2:41,N,"22,583",1.18,++++++++,2023
+48,"Tuesday, May 23",HOU,MIL,L,0,6,,28-20,2,2.0,Rea,France,,2:36,N,"23,062",1.23,-,2023
+49,"Wednesday, May 24",HOU,MIL,L,0,4,,28-21,2,3.0,Houser,Bielak,,2:09,D,"28,262",1.16,--,2023
+50,"Friday, May 26",HOU,OAK,W,5,2,,29-21,2,3.0,Brown,Kaprielian,Pressly,2:23,N,"13,345",1.15,+,2023
+51,"Saturday, May 27",HOU,OAK,W,6,3,,30-21,2,3.0,Valdez,Pruitt,Pressly,2:41,D,"9,293",1.20,++,2023
+52,"Sunday, May 28",HOU,OAK,W,10,1,,31-21,2,2.0,Javier,Medina,,2:37,D,"8,809",1.16,+++,2023
+53,"Monday, May 29",HOU,MIN,L,5,7,10,31-22,2,3.0,Duran,Abreu,,2:56,D,"40,744",1.32,-,2023
+54,"Tuesday, May 30",HOU,MIN,W,5,1,,32-22,2,3.0,Bielak,Ryan,,2:30,N,"34,604",1.25,+,2023
+55,"Wednesday, May 31",HOU,MIN,L,2,8,,32-23,2,3.0,Varland,Brown,,2:50,N,"37,127",1.28,-,2023
+56,"Thursday, Jun 1",HOU,LAA,W,5,2,,33-23,2,2.5,Blanco,Detmers,Pressly,2:36,N,"34,037",1.36,+,2023
+57,"Friday, Jun 2",HOU,LAA,W,6,2,,34-23,2,2.5,Valdez,Ohtani,,2:36,N,"38,692",1.35,++,2023
+58,"Saturday, Jun 3",HOU,LAA,W,9,6,,35-23,2,2.5,Javier,Sandoval,,3:12,D,"39,222",1.36,+++,2023
+59,"Sunday, Jun 4",HOU,LAA,L,1,2,,35-24,2,3.5,Devenski,Maton,Estévez,2:20,D,"40,831",1.37,-,2023
+60,"Monday, Jun 5",HOU,TOR,W,11,4,,36-24,2,3.5,Bielak,Manoah,,3:01,N,"23,982",1.33,+,2023
+61,"Tuesday, Jun 6",HOU,TOR,L,1,5,,36-25,2,4.5,Gausman,Brown,,2:23,N,"30,079",1.33,-,2023
+62,"Wednesday, Jun 7",HOU,TOR,L,2,3,,36-26,2,4.5,Bassitt,Neris,Romano,2:03,N,"26,724",1.26,--,2023
+63,"Thursday, Jun 8",HOU,TOR,L,2,3,,36-27,2,5.0,Berríos,Valdez,Romano,2:34,N,"28,284",1.29,---,2023
+64,"Friday, Jun 9",HOU,CLE,L-wo,9,10,14,36-28,2,5.0,Curry,Martinez,,4:03,N,"31,787",1.21,----,2023
+65,"Saturday, Jun 10",HOU,CLE,W,6,4,,37-28,2,5.0,France,McKenzie,Pressly,2:52,N,"35,087",1.19,+,2023
+66,"Sunday, Jun 11",HOU,CLE,L,0,5,,37-29,2,5.0,Bieber,Bielak,,2:19,D,"26,318",1.22,-,2023
+67,"Tuesday, Jun 13",HOU,WSN,W,6,1,,38-29,2,3.5,Brown,Corbin,,2:30,N,"39,546",1.21,+,2023
+68,"Wednesday, Jun 14",HOU,WSN,W-wo,5,4,,39-29,2,3.5,Pressly,Harvey,,2:24,N,"39,796",1.25,++,2023
+69,"Thursday, Jun 15",HOU,WSN,L,1,4,10,39-30,2,3.5,Harvey,Maton,Edwards,3:12,N,"38,303",1.24,-,2023
+70,"Friday, Jun 16",HOU,CIN,L,1,2,,39-31,2,3.5,Abbott,France,Díaz,2:21,N,"38,621",1.27,--,2023
+71,"Saturday, Jun 17",HOU,CIN,L,3,10,,39-32,2,4.5,Greene,Bielak,,2:52,D,"40,136",1.20,---,2023
+72,"Sunday, Jun 18",HOU,CIN,L,7,9,10,39-33,3,5.5,Gibaut,Martinez,Young,3:12,D,"40,573",1.16,----,2023
+73,"Monday, Jun 19",HOU,NYM,L,1,11,,39-34,3,6.5,Scherzer,Brown,,2:38,N,"33,185",1.08,-----,2023
+74,"Tuesday, Jun 20",HOU,NYM,W,4,2,,40-34,3,5.5,Valdez,Verlander,Pressly,2:11,N,"34,606",1.05,+,2023
+75,"Wednesday, Jun 21",HOU,NYM,W,10,8,,41-34,2,5.5,Maton,Leone,Pressly,3:32,D,"38,279",1.11,++,2023
+76,"Friday, Jun 23",HOU,LAD,L,2,3,,41-35,2,6.5,Sheehan,France,Graterol,2:08,N,"49,795",1.14,-,2023
+77,"Saturday, Jun 24",HOU,LAD,L,7,8,,41-36,3,6.5,Bickford,Abreu,Phillips,2:51,D,"49,218",1.09,--,2023
+78,"Sunday, Jun 25",HOU,LAD,W,6,5,11,42-36,2,5.5,Pressly,Almonte,Martinez,3:04,D,"47,273",1.08,+,2023
+79,"Tuesday, Jun 27",HOU,STL,L,2,4,,42-37,3,6.0,Montgomery,Valdez,Hicks,2:26,N,"41,512",1.15,-,2023
+80,"Wednesday, Jun 28",HOU,STL,W,10,7,,43-37,2,6.0,Martinez,Gallegos,Pressly,3:10,N,"41,452",1.08,+,2023
+81,"Thursday, Jun 29",HOU,STL,W,14,0,,44-37,2,5.0,France,Wainwright,,2:48,N,"42,504",1.13,++,2023
+82,"Friday, Jun 30",HOU,TEX,W,5,3,,45-37,2,4.0,Blanco,Gray,Pressly,2:26,N,"39,174",1.63,+++,2023
+83,"Saturday, Jul 1",HOU,TEX,L,2,5,,45-38,2,5.0,Eovaldi,Brown,,2:41,D,"40,380",1.76,-,2023
+84,"Sunday, Jul 2",HOU,TEX,W,5,3,,46-38,2,4.0,Neris,Sborz,Pressly,2:41,D,"39,580",1.66,+,2023
+85,"Monday, Jul 3",HOU,TEX,W,12,11,,47-38,2,3.0,Abreu,Smith,Pressly,3:04,D,"38,936",1.79,++,2023
+86,"Tuesday, Jul 4",HOU,COL,W,4,1,,48-38,2,3.0,Bielak,Freeland,,2:26,D,"39,533",1.44,+++,2023
+87,"Wednesday, Jul 5",HOU,COL,W,6,4,,49-38,2,2.0,France,Anderson,Pressly,2:28,D,"36,535",1.43,++++,2023
+88,"Thursday, Jul 6",HOU,SEA,L,1,5,,49-39,2,2.0,Kirby,Blanco,,2:30,N,"40,562",1.62,-,2023
+89,"Friday, Jul 7",HOU,SEA,L,1,10,,49-40,2,3.0,Castillo,Brown,,2:39,N,"34,737",1.66,--,2023
+90,"Saturday, Jul 8",HOU,SEA,W,3,2,,50-40,2,2.0,Neris,Muñoz,Pressly,2:46,N,"37,112",1.62,+,2023
+91,"Sunday, Jul 9",HOU,SEA,L,1,3,,50-41,2,2.0,Gilbert,Bielak,Sewald,2:28,D,"39,421",1.70,-,2023
+92,"Friday, Jul 14",HOU,LAA,W,7,5,,51-41,2,2.0,Maton,Ohtani,Pressly,3:11,N,"38,850",1.57,+,2023
+93,"Saturday, Jul 15",HOU,LAA,L-wo,12,13,10,51-42,2,3.0,Estévez,Maton,,3:31,N,"37,523",1.62,-,2023
+94,"Sunday, Jul 16",HOU,LAA,W,9,8,,52-42,2,3.0,Montero,Barria,Maton,3:31,D,"34,679",1.53,+,2023
+95,"Tuesday, Jul 18",HOU,COL,L,3,4,,52-43,2,4.5,Abad,Brown,Lawrence,2:37,N,"43,871",1.48,-,2023
+96,"Wednesday, Jul 19",HOU,COL,W,4,1,,53-43,2,4.5,Bielak,Gomber,,2:38,D,"36,937",1.41,+,2023
+97,"Thursday, Jul 20",HOU,OAK,W,3,1,,54-43,2,4.0,France,Harris,Pressly,2:12,N,"4,757",1.40,++,2023
+98,"Friday, Jul 21",HOU,OAK,W,6,4,,55-43,2,3.0,Valdez,Sears,Pressly,2:40,N,"6,810",1.50,+++,2023
+99,"Saturday, Jul 22",HOU,OAK,L,1,4,,55-44,2,3.0,Pruitt,Javier,May,2:57,N,"14,507",1.48,-,2023
+100,"Sunday, Jul 23",HOU,OAK,W,3,2,,56-44,2,3.0,Neris,Smith,Abreu,2:36,D,"11,231",1.53,+,2023
+101,"Monday, Jul 24",HOU,TEX,W-wo,10,9,,57-44,2,2.0,Pressly,Speas,,3:17,N,"37,973",2.20,++,2023
+102,"Tuesday, Jul 25",HOU,TEX,W,4,3,,58-44,2,1.0,France,Rodríguez,Pressly,2:20,N,"40,520",2.29,+++,2023
+103,"Wednesday, Jul 26",HOU,TEX,L,5,13,,58-45,2,2.0,Heaney,Valdez,,2:58,N,"40,398",2.27,-,2023
+104,"Friday, Jul 28",HOU,TBR,L,3,4,,58-46,2,2.0,Poche,Pressly,Fairbanks,2:45,N,"38,592",1.77,--,2023
+105,"Saturday, Jul 29",HOU,TBR,W,17,4,,59-46,2,1.0,Brown,Bradley,,3:00,N,"40,004",1.75,+,2023
+106,"Sunday, Jul 30",HOU,TBR,L,2,8,,59-47,2,1.0,Littell,Bielak,,2:39,D,"40,357",1.76,-,2023
+107,"Monday, Jul 31",HOU,CLE,W,7,3,,60-47,2,0.5,France,Morgan,Pressly,2:45,N,"30,165",1.78,+,2023
+108,"Tuesday, Aug 1",HOU,CLE,W,2,0,,61-47,2,0.5,Valdez,Williams,,2:06,N,"33,703",1.82,++,2023
+109,"Wednesday, Aug 2",HOU,CLE,W,3,2,,62-47,2,0.5,Maton,Sandlin,Pressly,2:43,D,"37,522",1.72,+++,2023
+110,"Thursday, Aug 3",HOU,NYY,L,3,4,,62-48,2,1.5,King,Graveman,Holmes,2:55,N,"44,019",1.78,-,2023
+111,"Friday, Aug 4",HOU,NYY,W,7,3,,63-48,2,1.5,Brown,Severino,,3:04,N,"42,105",1.81,+,2023
+112,"Saturday, Aug 5",HOU,NYY,L,1,3,,63-49,2,2.5,Hamilton,Verlander,Holmes,2:23,D,"41,411",1.77,-,2023
+113,"Sunday, Aug 6",HOU,NYY,W,9,7,,64-49,2,2.5,France,Peralta,Abreu,3:28,D,"46,345",1.78,+,2023
+114,"Tuesday, Aug 8",HOU,BAL,W,7,6,,65-49,2,3.0,Stanek,Bautista,Pressly,2:46,N,"24,761",1.69,++,2023
+115,"Wednesday, Aug 9",HOU,BAL,W,8,2,,66-49,2,2.0,Javier,Flaherty,,3:18,N,"25,479",1.65,+++,2023
+116,"Thursday, Aug 10",HOU,BAL,L,4,5,,66-50,2,2.5,Kremer,Brown,Bautista,2:38,D,"22,981",1.68,-,2023
+117,"Friday, Aug 11",HOU,LAA,W,11,3,,67-50,2,2.5,Verlander,Detmers,,2:43,N,"41,152",1.76,+,2023
+118,"Saturday, Aug 12",HOU,LAA,W,11,3,,68-50,2,2.5,France,Anderson,,2:33,N,"40,311",1.68,++,2023
+119,"Sunday, Aug 13",HOU,LAA,L,1,2,,68-51,2,2.5,Silseth,Urquidy,Estévez,2:49,D,"40,333",1.55,-,2023
+120,"Monday, Aug 14",HOU,MIA,L,1,5,,68-52,2,3.5,Garrett,Valdez,,2:37,N,"13,263",1.66,--,2023
+121,"Tuesday, Aug 15",HOU,MIA,W,6,5,,69-52,2,3.5,Brown,Puk,Pressly,2:47,N,"12,981",1.58,+,2023
+122,"Wednesday, Aug 16",HOU,MIA,W,12,5,,70-52,2,2.5,Verlander,Luzardo,,2:55,N,"14,795",1.56,++,2023
+123,"Friday, Aug 18",HOU,SEA,L,0,2,,70-53,2,2.5,Miller,France,Muñoz,2:34,N,"38,060",2.01,-,2023
+124,"Saturday, Aug 19",HOU,SEA,L,3,10,,70-54,2,2.5,Gilbert,Valdez,,2:53,N,"38,280",2.08,--,2023
+125,"Sunday, Aug 20",HOU,SEA,L,6,7,,70-55,2,2.5,Brash,Brown,Speier,3:17,D,"36,642",2.31,---,2023
+126,"Monday, Aug 21",HOU,BOS,W,9,4,,71-55,2,1.5,Javier,Paxton,,3:12,N,"31,590",2.06,+,2023
+127,"Tuesday, Aug 22",HOU,BOS,W,7,3,,72-55,2,0.5,Verlander,Houck,,2:53,N,"33,042",2.07,++,2023
+128,"Wednesday, Aug 23",HOU,BOS,L,5,7,10,72-56,2,1.0,Pivetta,Graveman,Winckowski,3:37,N,"37,144",2.04,-,2023
+129,"Thursday, Aug 24",HOU,BOS,L,1,17,,72-57,2,1.0,Bello,France,,3:11,D,"35,323",2.09,--,2023
+130,"Friday, Aug 25",HOU,DET,L-wo,1,4,,72-58,3,1.0,Lange,Pressly,,2:42,N,"23,832",1.96,---,2023
+131,"Saturday, Aug 26",HOU,DET,W,9,2,,73-58,3,1.0,Brown,Rodriguez,,3:01,N,"27,103",1.96,+,2023
+132,"Sunday, Aug 27",HOU,DET,W,17,4,,74-58,2,1.0,Verlander,Faedo,,3:10,D,"28,496",1.95,++,2023
+133,"Monday, Aug 28",HOU,BOS,W,13,5,,75-58,2,1.0,Graveman,Barraclough,Urquidy,3:21,N,"33,771",2.06,+++,2023
+134,"Tuesday, Aug 29",HOU,BOS,W,6,2,,76-58,1,Tied,France,Bello,,2:57,N,"30,267",1.97,++++,2023
+135,"Wednesday, Aug 30",HOU,BOS,W,7,4,,77-58,1,Tied,Valdez,Crawford,Pressly,3:06,D,"31,045",1.92,+++++,2023
+136,"Friday, Sep 1",HOU,NYY,L,2,6,,77-59,1,Tied,Rodón,Verlander,,2:31,N,"41,066",1.79,-,2023
+137,"Saturday, Sep 2",HOU,NYY,L,4,5,,77-60,2,1.0,Brito,Brown,Holmes,3:02,N,"41,427",1.96,--,2023
+138,"Sunday, Sep 3",HOU,NYY,L,1,6,,77-61,2,1.0,King,Javier,,2:44,N,"41,514",1.93,---,2023
+139,"Monday, Sep 4",HOU,TEX,W,13,6,,78-61,1,Tied,Montero,Sborz,,3:04,D,"39,181",2.85,+,2023
+140,"Tuesday, Sep 5",HOU,TEX,W,14,1,,79-61,1,up 1.0,Valdez,Eovaldi,,2:31,N,"33,678",2.92,++,2023
+141,"Wednesday, Sep 6",HOU,TEX,W,12,3,,80-61,1,up 1.0,Verlander,Scherzer,,2:45,N,"36,417",2.87,+++,2023
+142,"Friday, Sep 8",HOU,SDP,L,2,11,,80-62,1,up 0.5,Snell,Brown,,3:00,N,"39,516",1.94,-,2023
+143,"Saturday, Sep 9",HOU,SDP,W,7,5,,81-62,1,up 1.5,Maton,Lugo,Pressly,3:03,N,"39,452",1.98,+,2023
+144,"Sunday, Sep 10",HOU,SDP,W,12,2,,82-62,1,up 2.5,France,Waldron,,2:49,D,"41,073",2.00,++,2023
+145,"Monday, Sep 11",HOU,OAK,L,0,4,,82-63,1,up 2.0,Waldichuk,Valdez,,2:25,N,"29,807",1.91,-,2023
+146,"Tuesday, Sep 12",HOU,OAK,L,2,6,,82-64,1,up 1.0,Sears,Verlander,,2:26,N,"36,504",2.18,--,2023
+147,"Wednesday, Sep 13",HOU,OAK,W,6,2,,83-64,1,up 1.0,Brown,Blackburn,,2:38,N,"37,864",2.60,+,2023
+148,"Friday, Sep 15",HOU,KCR,L,2,4,,83-65,1,up 0.5,Zerpa,Javier,Clarke,2:57,N,"15,465",2.56,-,2023
+149,"Saturday, Sep 16",HOU,KCR,L,8,10,,83-66,1,up 0.5,McArthur,Neris,Clarke,3:03,N,"19,557",2.72,--,2023
+150,"Sunday, Sep 17",HOU,KCR,W,7,1,,84-66,1,up 1.5,Valdez,Lyles,,2:25,D,"15,311",2.96,+,2023
+151,"Monday, Sep 18",HOU,BAL,L,7,8,,84-67,1,up 1.5,Baumann,Pressly,Cano,3:20,N,"34,456",2.62,-,2023
+152,"Tuesday, Sep 19",HOU,BAL,L,5,9,,84-68,1,up 0.5,Hall,Brown,Pérez,3:11,N,"35,050",2.93,--,2023
+153,"Wednesday, Sep 20",HOU,BAL,W-wo,2,1,,85-68,1,up 0.5,Pressly,Coulombe,,2:56,D,"36,427",3.37,+,2023
+154,"Friday, Sep 22",HOU,KCR,L,5,7,,85-69,2,0.5,Ragans,Valdez,McArthur,2:38,N,"41,033",3.40,-,2023
+155,"Saturday, Sep 23",HOU,KCR,L,2,3,,85-70,2,1.5,Lyles,France,Clarke,2:45,N,"41,692",3.79,--,2023
+156,"Sunday, Sep 24",HOU,KCR,L,5,6,,85-71,2,2.5,Marsh,Brown,McArthur,2:37,D,"41,438",3.60,---,2023
+157,"Monday, Sep 25",HOU,SEA,W,5,1,,86-71,2,2.5,Verlander,Castillo,,2:21,N,"39,920",4.92,+,2023
+158,"Tuesday, Sep 26",HOU,SEA,L,2,6,,86-72,2,2.5,Kirby,Javier,,3:06,N,"40,035",5.15,-,2023
+159,"Wednesday, Sep 27",HOU,SEA,W,8,3,,87-72,2,2.5,Graveman,Miller,,3:15,N,"38,019",6.13,+,2023
+160,"Friday, Sep 29",HOU,ARI,W,2,1,,88-72,2,1.0,Urquidy,Gallen,Pressly,2:30,N,"36,133",4.80,++,2023
+161,"Saturday, Sep 30",HOU,ARI,W,1,0,,89-72,2,1.0,Verlander,Kelly,Abreu,2:51,N,"36,789",8.25,+++,2023
+162,"Sunday, Oct 1",HOU,ARI,W,8,1,,90-72,1,Tied,Javier,Nelson,,2:40,D,"30,703",6.61,++++,2023
+1,"Thursday, Apr 7",HOU,LAA,W,3,1,,1-0,1,up 0.5,Valdez,Ohtani,Pressly,3:15,N,"44,723",.96,+,2022
+2,"Friday, Apr 8",HOU,LAA,W,13,6,,2-0,1,up 0.5,Montero,Ortega,,3:44,N,"42,719",1.06,++,2022
+3,"Saturday, Apr 9",HOU,LAA,L,0,2,,2-1,2,0.5,Syndergaard,Verlander,Iglesias,3:02,N,"36,139",1.09,-,2022
+4,"Sunday, Apr 10",HOU,LAA,W,4,1,,3-1,1,up 0.5,Urquidy,Suarez,Pressly,3:15,D,"41,253",1.05,+,2022
+5,"Tuesday, Apr 12",HOU,ARI,W,2,1,,4-1,1,up 1.5,Neris,Melancon,Pressly,3:20,N,"17,674",1.00,++,2022
+6,"Wednesday, Apr 13",HOU,ARI,L-wo,2,3,10,4-2,1,up 1.0,Pérez,Pressly,,3:50,D,"12,660",1.01,-,2022
+7,"Friday, Apr 15",HOU,SEA,L,1,11,,4-3,1,up 0.5,Gonzales,Odorizzi,,3:04,N,"45,023",1.11,--,2022
+8,"Saturday, Apr 16",HOU,SEA,W,4,0,,5-3,1,up 0.5,Verlander,Flexen,,2:36,N,"38,504",1.10,+,2022
+9,"Sunday, Apr 17",HOU,SEA,L,2,7,,5-4,2,0.5,Brash,Urquidy,,2:56,D,"26,583",1.08,-,2022
+10,"Monday, Apr 18",HOU,LAA,W,8,3,,6-4,1,up 0.5,Garcia,Lorenzen,,3:22,N,"42,646",1.09,+,2022
+11,"Tuesday, Apr 19",HOU,LAA,L,2,7,,6-5,3,0.5,Ortega,Valdez,,3:36,N,"30,212",1.15,-,2022
+12,"Wednesday, Apr 20",HOU,LAA,L,0,6,,6-6,4,1.5,Ohtani,Odorizzi,,3:08,N,"29,049",1.05,--,2022
+13,"Friday, Apr 22",HOU,TOR,L,3,4,,6-7,4,1.5,Mayza,Neris,Romano,2:53,N,"36,757",1.01,---,2022
+14,"Saturday, Apr 23",HOU,TOR,L,2,3,,6-8,4,2.5,Manoah,Taylor,Cimber,2:54,D,"36,075",.96,----,2022
+15,"Sunday, Apr 24",HOU,TOR,W-wo,8,7,10,7-8,4,2.5,Taylor,Romano,,3:45,D,"39,534",.93,+,2022
+16,"Monday, Apr 25",HOU,TEX,L,2,6,,7-9,4,3.0,Moore,Maton,,3:14,N,"17,420",.96,-,2022
+17,"Tuesday, Apr 26",HOU,TEX,W,5,1,,8-9,4,3.0,Odorizzi,Hearn,,3:02,N,"16,469",.92,+,2022
+18,"Wednesday, Apr 27",HOU,TEX,W,4,3,,9-9,4,2.5,Javier,Martin,Stanek,3:17,N,"20,399",.93,++,2022
+19,"Thursday, Apr 28",HOU,TEX,W,3,2,,10-9,3,2.5,Verlander,Bush,Montero,2:37,D,"19,484",1.00,+++,2022
+20,"Friday, Apr 29",HOU,TOR,W,11,7,,11-9,2,2.5,Urquidy,Thornton,,3:42,N,"35,066",1.04,++++,2022
+21,"Saturday, Apr 30",HOU,TOR,L,1,2,,11-10,2,2.5,Berríos,Garcia,Romano,2:43,D,"40,732",1.11,-,2022
+22,"Sunday, May 1",HOU,TOR,L,2,3,,11-11,3,3.5,Gausman,Valdez,Romano,2:52,D,"31,802",1.07,--,2022
+23,"Monday, May 2",HOU,SEA,W,3,0,,12-11,2,2.5,Odorizzi,Gonzales,Montero,2:48,N,"27,321",1.09,+,2022
+24,"Tuesday, May 3",HOU,SEA,W,4,0,,13-11,2,1.5,Javier,Flexen,,3:12,N,"23,796",1.14,++,2022
+25,"Wednesday, May 4",HOU,SEA,W,7,2,,14-11,2,1.5,Verlander,Brash,,3:01,D,"24,110",1.19,+++,2022
+26,"Thursday, May 5",HOU,DET,W-wo,3,2,,15-11,2,1.5,Pressly,Soto,,2:55,N,"24,116",1.11,++++,2022
+27,"Friday, May 6",HOU,DET,W,3,2,,16-11,2,1.5,Garcia,Brieske,Montero,3:06,N,"38,020",1.12,+++++,2022
+28,"Saturday, May 7",HOU,DET,W,3,2,,17-11,2,0.5,Abreu,Fulmer,Pressly,3:01,D,"34,109",1.13,++++++,2022
+29,"Sunday, May 8",HOU,DET,W,5,0,,18-11,2,0.5,Odorizzi,Hutchison,,2:44,D,"36,934",1.15,+++++++,2022
+30,"Tuesday, May 10",HOU,MIN,W,5,0,,19-11,2,1.0,Verlander,Ryan,,3:10,N,"16,156",1.25,++++++++,2022
+31,"Wednesday, May 11",HOU,MIN,W,11,3,,20-11,1,Tied,Abreu,Archer,,3:33,N,,1.28,+++++++++,2022
+32,"Thursday, May 12",HOU,MIN,W,5,0,,21-11,1,up 0.5,Garcia,Winder,,3:20,D,"16,918",1.29,++++++++++,2022
+33,"Friday, May 13",HOU,WSN,W,6,1,,22-11,1,up 0.5,Valdez,Gray,,2:45,N,"18,433",1.14,+++++++++++,2022
+34,"Saturday, May 14",HOU,WSN,L,6,13,,22-12,1,Tied,Rogers,Javier,,3:27,N,"22,949",1.17,-,2022
+35,"Sunday, May 15",HOU,WSN,W,8,0,,23-12,1,Tied,Verlander,Corbin,,3:07,D,"25,915",1.17,+,2022
+36,"Monday, May 16",HOU,BOS,L,3,6,,23-13,1,Tied,Strahm,Neris,Robles,3:07,N,"29,706",1.20,-,2022
+37,"Tuesday, May 17",HOU,BOS,W,13,4,,24-13,1,up 1.0,Urquidy,Eovaldi,,3:12,N,"27,328",1.21,+,2022
+38,"Wednesday, May 18",HOU,BOS,L,1,5,,24-14,1,up 1.0,Pivetta,Garcia,,2:38,N,"31,717",1.23,-,2022
+39,"Thursday, May 19",HOU,TEX,W,5,1,,25-14,1,up 1.5,Valdez,Otto,,3:10,N,"34,593",1.34,+,2022
+40,"Friday, May 20",HOU,TEX,L,0,3,,25-15,1,up 1.5,Pérez,Javier,,2:57,N,"35,294",1.27,-,2022
+41,"Saturday, May 21",HOU,TEX,W,2,1,,26-15,1,up 1.5,Verlander,Gray,Pressly,2:52,N,"37,187",1.30,+,2022
+42,"Sunday, May 22",HOU,TEX,W,5,2,,27-15,1,up 1.5,Urquidy,Hearn,Pressly,3:10,D,"38,745",1.28,++,2022
+43,"Monday, May 23",HOU,CLE,L,1,6,,27-16,1,up 1.0,McKenzie,Garcia,,3:02,N,"28,284",1.23,-,2022
+44,"Tuesday, May 24",HOU,CLE,W,7,3,,28-16,1,up 1.0,Valdez,Plesac,,2:45,N,"26,621",1.28,+,2022
+45,"Wednesday, May 25",HOU,CLE,W,2,1,,29-16,1,up 2.0,Javier,Quantrill,Pressly,3:00,N,"25,412",1.23,++,2022
+46,"Friday, May 27",HOU,SEA,L,1,6,,29-17,1,up 2.5,Flexen,Verlander,,2:45,N,"26,017",1.22,-,2022
+47,"Saturday, May 28",HOU,SEA,L,0,6,,29-18,1,up 2.5,Gilbert,Urquidy,,3:01,N,"24,007",1.26,--,2022
+48,"Sunday, May 29",HOU,SEA,W,2,1,,30-18,1,up 3.5,Montero,Gonzales,Pressly,3:00,D,"28,986",1.33,+,2022
+49,"Monday, May 30",HOU,OAK,W,5,1,,31-18,1,up 4.0,Valdez,Blackburn,,2:58,D,"8,753",1.25,++,2022
+50,"Tuesday, May 31",HOU,OAK,W,3,1,,32-18,1,up 5.0,Montero,Montas,Pressly,3:23,N,"3,469",1.21,+++,2022
+51,"Wednesday, Jun 1",HOU,OAK,W,5,4,,33-18,1,up 5.5,Abreu,Jiménez,Pressly,3:07,D,"5,189",1.16,++++,2022
+52,"Friday, Jun 3",HOU,KCR,W,10,3,,34-18,1,up 7.5,Urquidy,Singer,,2:48,N,"22,516",1.08,+++++,2022
+53,"Saturday, Jun 4",HOU,KCR,L,0,6,,34-19,1,up 7.5,Snider,Garcia,,3:10,D,"14,686",1.04,-,2022
+54,"Sunday, Jun 5",HOU,KCR,W,7,4,,35-19,1,up 8.5,Valdez,Heasley,Montero,3:30,D,"12,776",1.06,+,2022
+55,"Monday, Jun 6",HOU,SEA,L,4,7,,35-20,1,up 8.5,Ray,Javier,Castillo,3:46,N,"27,521",1.13,-,2022
+56,"Tuesday, Jun 7",HOU,SEA,W,4,1,,36-20,1,up 9.5,Verlander,Flexen,Pressly,3:19,N,"30,583",1.23,+,2022
+57,"Wednesday, Jun 8",HOU,SEA,L,3,6,,36-21,1,up 9.5,Gilbert,Urquidy,Castillo,3:09,N,"23,752",1.14,-,2022
+58,"Friday, Jun 10",HOU,MIA,L,4,7,,36-22,1,up 9.0,Sulser,Garcia,Scott,3:49,N,"34,163",1.09,--,2022
+59,"Saturday, Jun 11",HOU,MIA,L,1,5,,36-23,1,up 8.0,Garrett,Valdez,,3:12,D,"31,379",1.13,---,2022
+60,"Sunday, Jun 12",HOU,MIA,W,9,4,,37-23,1,up 8.5,Verlander,Cabrera,,3:21,D,"29,341",1.17,+,2022
+61,"Monday, Jun 13",HOU,TEX,L,3,5,,37-24,1,up 7.5,Burke,Neris,Moore,3:18,N,"29,805",1.30,-,2022
+62,"Tuesday, Jun 14",HOU,TEX,W,4,3,,38-24,1,up 8.5,Abreu,King,Pressly,2:40,N,"29,370",1.35,+,2022
+63,"Wednesday, Jun 15",HOU,TEX,W,9,2,,39-24,1,up 9.5,Garcia,Miller,,2:45,D,"24,992",1.24,++,2022
+64,"Friday, Jun 17",HOU,CHW,W,13,3,,40-24,1,up 9.0,Valdez,Giolito,,2:55,N,"35,467",1.17,+++,2022
+65,"Saturday, Jun 18",HOU,CHW,L,0,7,,40-25,1,up 9.0,Cueto,Verlander,,2:51,D,"36,747",1.14,-,2022
+66,"Sunday, Jun 19",HOU,CHW,W,4,3,,41-25,1,up 9.5,Javier,Kopech,Pressly,3:05,N,"37,709",1.17,+,2022
+67,"Tuesday, Jun 21",HOU,NYM,W,8,2,,42-25,1,up10.0,Urquidy,Williams,,3:02,N,"35,140",1.05,++,2022
+68,"Wednesday, Jun 22",HOU,NYM,W,5,3,,43-25,1,up10.0,Garcia,Carrasco,Pressly,3:15,D,"35,415",1.00,+++,2022
+69,"Thursday, Jun 23",HOU,NYY,L-wo,6,7,,43-26,1,up 9.5,Castro,Pressly,,3:24,N,"44,071",1.01,-,2022
+70,"Friday, Jun 24",HOU,NYY,W,3,1,,44-26,1,up10.5,Verlander,Severino,Montero,3:05,N,"47,528",1.07,+,2022
+71,"Saturday, Jun 25",HOU,NYY,W,3,0,,45-26,1,up10.5,Javier,Cole,Pressly,3:14,D,"45,076",.96,++,2022
+72,"Sunday, Jun 26",HOU,NYY,L-wo,3,6,10,45-27,1,up10.5,King,Martinez,,3:45,D,"44,028",.93,-,2022
+73,"Tuesday, Jun 28",HOU,NYM,W,9,1,,46-27,1,up10.0,Valdez,Carrasco,,3:17,N,"36,673",.98,+,2022
+74,"Wednesday, Jun 29",HOU,NYM,W,2,0,,47-27,1,up11.0,Verlander,Smith,Pressly,2:43,D,"29,230",.90,++,2022
+75,"Thursday, Jun 30",HOU,NYY,W,2,1,,48-27,1,up11.5,Garcia,Severino,Pressly,2:54,N,"40,674",.88,+++,2022
+76,"Friday, Jul 1",HOU,LAA,W,8,1,,49-27,1,up12.5,Javier,Lorenzen,,2:45,N,"36,420",.84,++++,2022
+77,"Saturday, Jul 2",HOU,LAA,W,9,1,,50-27,1,up12.5,Urquidy,Sandoval,,2:51,D,"35,332",.73,+++++,2022
+78,"Sunday, Jul 3",HOU,LAA,W-wo,4,2,,51-27,1,up13.5,Pressly,Tepera,,3:23,D,"36,048",.68,++++++,2022
+79,"Monday, Jul 4",HOU,KCR,W-wo,7,6,,52-27,1,up13.5,Stanek,Barlow,,3:19,D,"33,936",.58,+++++++,2022
+80,"Tuesday, Jul 5",HOU,KCR,W,9,7,,53-27,1,up13.5,Garcia,Greinke,Montero,3:04,N,"28,762",.54,++++++++,2022
+81,"Wednesday, Jul 6",HOU,KCR,L,4,7,,53-28,1,up13.0,Keller,Javier,Barlow,3:29,N,"26,534",.48,-,2022
+82,"Thursday, Jul 7",HOU,KCR,W,5,2,,54-28,1,up13.0,Verlander,Bubic,Pressly,3:04,D,"36,067",.50,+,2022
+83,"Friday, Jul 8",HOU,OAK,W,8,3,,55-28,1,up13.0,Urquidy,Blackburn,,2:57,N,"6,012",.48,++,2022
+84,"Saturday, Jul 9",HOU,OAK,L,2,3,,55-29,1,up12.0,Logue,Valdez,Trivino,2:33,D,"10,058",.38,-,2022
+85,"Sunday, Jul 10",HOU,OAK,W,6,1,,56-29,1,up12.0,Odorizzi,Irvin,,2:39,D,"10,195",.44,+,2022
+86,"Tuesday, Jul 12",HOU,LAA,W,6,5,,57-29,1,up12.5,Neris,Iglesias,Pressly,3:37,N,"27,180",.42,++,2022
+87,"Wednesday, Jul 13",HOU,LAA,L,1,7,,57-30,1,up11.0,Ohtani,Javier,,3:45,N,"27,803",.36,-,2022
+88,"Thursday, Jul 14",HOU,LAA,W,3,2,10,58-30,1,up11.0,Pressly,Loup,,3:28,N,"34,496",.43,+,2022
+89,"Friday, Jul 15",HOU,OAK,L,1,5,,58-31,1,up10.0,Irvin,Urquidy,,2:39,N,"39,434",.37,-,2022
+90,"Saturday, Jul 16",HOU,OAK,W,5,0,,59-31,1,up10.0,Verlander,Koenig,,2:35,D,"39,125",.42,+,2022
+91,"Sunday, Jul 17",HOU,OAK,L,3,4,,59-32,1,up 9.0,Puk,Montero,Trivino,3:16,D,"34,534",.43,-,2022
+92,"Thursday, Jul 21(1)",HOU,NYY,W-wo,3,2,,60-32,1,up10.0,Neris,King,,3:14,D,"36,225",.51,+,2022
+93,"Thursday, Jul 21(2)",HOU,NYY,W,7,5,,61-32,1,up10.0,Garcia,Germán,Montero,3:11,N,"39,342",.47,++,2022
+94,"Friday, Jul 22",HOU,SEA,W,5,2,,62-32,1,up11.0,Urquidy,Gonzales,Neris,3:04,N,"45,290",.57,+++,2022
+95,"Saturday, Jul 23",HOU,SEA,W,3,1,,63-32,1,up12.0,Verlander,Gilbert,Abreu,2:46,D,"43,197",.41,++++,2022
+96,"Sunday, Jul 24",HOU,SEA,W,8,5,,64-32,1,up13.0,Valdez,Ray,Pressly,3:10,D,"34,827",.31,+++++,2022
+97,"Monday, Jul 25",HOU,OAK,L,5,7,,64-33,1,up12.0,Oller,Odorizzi,Trivino,2:55,N,"4,105",.21,-,2022
+98,"Tuesday, Jul 26",HOU,OAK,L,3,5,,64-34,1,up11.0,Montas,Garcia,Trivino,3:04,N,"5,130",.25,--,2022
+99,"Wednesday, Jul 27",HOU,OAK,L,2,4,,64-35,1,up10.0,Irvin,Javier,Puk,2:27,D,"9,367",.27,---,2022
+100,"Thursday, Jul 28",HOU,SEA,W,4,2,,65-35,1,up11.0,Montero,Muñoz,Pressly,2:51,N,"29,799",.45,+,2022
+101,"Friday, Jul 29",HOU,SEA,W,11,1,,66-35,1,up12.0,Verlander,Ray,,3:06,N,"38,497",.32,++,2022
+102,"Saturday, Jul 30",HOU,SEA,L,4,5,,66-36,1,up11.0,Swanson,Pressly,Sewald,3:28,N,"37,385",.25,-,2022
+103,"Sunday, Jul 31",HOU,SEA,W-wo,3,2,10,67-36,1,up12.0,Neris,Bernardino,,3:08,D,"35,773",.31,+,2022
+104,"Monday, Aug 1",HOU,BOS,L,2,3,,67-37,1,up12.0,Eovaldi,Garcia,Houck,3:02,N,"35,185",.20,-,2022
+105,"Tuesday, Aug 2",HOU,BOS,L,1,2,,67-38,1,up11.0,Crawford,Javier,Houck,2:59,N,"31,229",.24,--,2022
+106,"Wednesday, Aug 3",HOU,BOS,W,6,1,,68-38,1,up11.0,Urquidy,Hill,,2:42,D,"32,295",.28,+,2022
+107,"Thursday, Aug 4",HOU,CLE,W,6,0,,69-38,1,up11.5,Verlander,Plesac,,3:03,N,"16,808",.27,++,2022
+108,"Friday, Aug 5",HOU,CLE,W,9,3,,70-38,1,up12.5,Valdez,Gaddis,,3:01,N,"24,712",.19,+++,2022
+109,"Saturday, Aug 6",HOU,CLE,L,1,4,,70-39,1,up12.0,Quantrill,Garcia,,2:30,N,"25,327",.18,-,2022
+110,"Sunday, Aug 7",HOU,CLE,L,0,1,,70-40,1,up11.0,McKenzie,Javier,Clase,2:29,D,"22,688",.19,--,2022
+111,"Tuesday, Aug 9",HOU,TEX,W,7,5,,71-40,1,up11.5,Urquidy,Pérez,Pressly,2:49,N,"30,629",.19,+,2022
+112,"Wednesday, Aug 10",HOU,TEX,L,4,8,10,71-41,1,up10.5,Hearn,Maton,,3:41,N,"26,670",.17,-,2022
+113,"Thursday, Aug 11",HOU,TEX,W,7,3,,72-41,1,up11.0,Valdez,Ragans,,2:53,D,"30,872",.20,+,2022
+114,"Friday, Aug 12",HOU,OAK,W,7,5,,73-41,1,up11.0,Garcia,Moll,Neris,3:19,N,"31,230",.16,++,2022
+115,"Saturday, Aug 13",HOU,OAK,W,8,0,,74-41,1,up12.0,McCullers,Logue,,2:51,N,"34,078",.15,+++,2022
+116,"Sunday, Aug 14",HOU,OAK,W,6,3,,75-41,1,up13.0,Javier,Irvin,Pressly,2:40,D,"38,906",.11,++++,2022
+117,"Monday, Aug 15",HOU,CHW,L,2,4,,75-42,1,up12.0,Cueto,Montero,Hendriks,2:33,N,"18,205",.13,-,2022
+118,"Tuesday, Aug 16",HOU,CHW,L,3,4,,75-43,1,up11.0,Lambert,Neris,Hendriks,3:10,N,"23,476",.13,--,2022
+119,"Wednesday, Aug 17",HOU,CHW,W,3,2,,76-43,1,up11.0,Valdez,Kopech,Pressly,3:06,N,"24,671",.16,+,2022
+120,"Thursday, Aug 18",HOU,CHW,W,21,5,,77-43,1,up11.5,Garcia,Giolito,,3:53,D,"24,407",.14,++,2022
+121,"Friday, Aug 19",HOU,ATL,L,2,6,,77-44,1,up10.5,Wright,McCullers,,3:04,N,"42,837",.16,-,2022
+122,"Saturday, Aug 20",HOU,ATL,L-wo,4,5,11,77-45,1,up10.5,Stephens,Stanek,,3:59,N,"42,893",.14,--,2022
+123,"Sunday, Aug 21",HOU,ATL,W,5,4,,78-45,1,up11.5,Urquidy,Lee,Pressly,3:11,D,"42,531",.18,+,2022
+124,"Tuesday, Aug 23",HOU,MIN,W,4,2,,79-45,1,up11.5,Verlander,Sanchez,Abreu,3:19,N,"32,639",.11,++,2022
+125,"Wednesday, Aug 24",HOU,MIN,W,5,3,,80-45,1,up12.5,Valdez,Bundy,,2:40,N,"27,070",.11,+++,2022
+126,"Thursday, Aug 25",HOU,MIN,W,6,3,,81-45,1,up12.5,Garcia,Archer,Montero,3:11,N,"33,320",.08,++++,2022
+127,"Friday, Aug 26",HOU,BAL,L,0,2,,81-46,1,up11.5,Bradish,Javier,Tate,2:57,N,"31,035",.09,-,2022
+128,"Saturday, Aug 27",HOU,BAL,L,1,3,,81-47,1,up11.5,Kremer,Urquidy,Bautista,2:55,N,"34,526",.09,--,2022
+129,"Sunday, Aug 28",HOU,BAL,W,3,1,,82-47,1,up11.5,Stanek,Voth,Montero,3:08,D,"31,559",.07,+,2022
+130,"Tuesday, Aug 30",HOU,TEX,W,4,2,,83-47,1,up11.5,Valdez,Dunning,Neris,2:56,N,"25,566",.06,++,2022
+131,"Wednesday, Aug 31",HOU,TEX,W,5,3,,84-47,1,up11.5,Javier,Pérez,Montero,3:23,D,"19,607",.07,+++,2022
+132,"Friday, Sep 2",HOU,LAA,W,4,2,,85-47,1,up11.0,McCullers,Detmers,Montero,3:09,N,"22,464",.07,++++,2022
+133,"Saturday, Sep 3",HOU,LAA,L-wo,1,2,12,85-48,1,up10.0,Tepera,Smith,,4:11,N,"38,244",.06,-,2022
+134,"Sunday, Sep 4",HOU,LAA,W,9,1,,86-48,1,up10.0,Urquidy,Davidson,,2:43,D,"28,179",.08,+,2022
+135,"Monday, Sep 5",HOU,TEX,W,1,0,,87-48,1,up11.0,Brown,Pérez,Montero,2:37,N,"35,162",.08,++,2022
+136,"Tuesday, Sep 6",HOU,TEX,L,3,4,,87-49,1,up10.0,Hearn,Valdez,Leclerc,3:23,N,"26,803",.07,-,2022
+137,"Wednesday, Sep 7",HOU,TEX,W-wo,4,3,10,88-49,1,up11.0,Neris,Hernández,,3:37,N,"26,239",.07,+,2022
+138,"Friday, Sep 9",HOU,LAA,W,4,3,,89-49,1,up12.0,McCullers,Wantz,Pressly,3:00,N,"33,509",.07,++,2022
+139,"Saturday, Sep 10",HOU,LAA,L,1,6,,89-50,1,up11.0,Ohtani,Urquidy,,3:08,N,"38,533",.06,-,2022
+140,"Sunday, Sep 11",HOU,LAA,W,12,4,,90-50,1,up11.0,Garcia,Davidson,,3:27,D,"32,901",.06,+,2022
+141,"Monday, Sep 12",HOU,DET,W,7,0,,91-50,1,up11.5,Valdez,Rodriguez,,2:43,N,"13,054",.05,++,2022
+142,"Tuesday, Sep 13",HOU,DET,W,6,3,,92-50,1,up12.5,Brown,Hutchison,Pressly,2:52,N,"13,820",.04,+++,2022
+143,"Wednesday, Sep 14",HOU,DET,W,2,1,,93-50,1,up12.5,Javier,Wentz,Pressly,2:58,D,"13,947",.03,++++,2022
+144,"Thursday, Sep 15",HOU,OAK,W,5,2,,94-50,1,up13.0,Martinez,Payamps,Montero,3:14,N,"26,543",.03,+++++,2022
+145,"Friday, Sep 16",HOU,OAK,W,5,0,,95-50,1,up14.0,Verlander,Martinez,,3:01,N,"33,850",.03,++++++,2022
+146,"Saturday, Sep 17",HOU,OAK,L,5,8,,95-51,1,up14.0,Irvin,Urquidy,Acevedo,2:28,N,"33,419",.02,-,2022
+147,"Sunday, Sep 18",HOU,OAK,W,11,2,,96-51,1,up15.0,Valdez,Waldichuk,,3:09,D,"30,375",.03,+,2022
+148,"Monday, Sep 19",HOU,TBR,W,4,0,,97-51,1,up15.0,Garcia,Rasmussen,,2:45,N,"10,390",.03,++,2022
+149,"Tuesday, Sep 20",HOU,TBR,W,5,0,,98-51,1,up16.0,Javier,McClanahan,Pressly,3:10,N,"8,992",.03,+++,2022
+150,"Wednesday, Sep 21",HOU,TBR,W,5,2,,99-51,1,up17.0,McCullers,Raley,Pressly,2:47,N,"9,293",.02,++++,2022
+151,"Thursday, Sep 22",HOU,BAL,L,0,2,,99-52,1,up16.0,Bradish,Verlander,Bautista,2:37,N,"16,417",.02,-,2022
+152,"Friday, Sep 23",HOU,BAL,L,0,6,,99-53,1,up16.0,Kremer,Urquidy,,2:40,N,"22,833",.02,--,2022
+153,"Saturday, Sep 24",HOU,BAL,W,11,10,,100-53,1,up16.0,Montero,Bautista,Pressly,3:58,N,"22,546",.03,+,2022
+154,"Sunday, Sep 25",HOU,BAL,W,6,3,11,101-53,1,up17.0,Neris,Akin,,4:02,D,"24,449",.01,++,2022
+155,"Tuesday, Sep 27",HOU,ARI,W,10,2,,102-53,1,up18.0,Garcia,Davies,,3:28,N,"37,480",.01,+++,2022
+156,"Wednesday, Sep 28",HOU,ARI,L,2,5,10,102-54,1,up17.0,Moronta,Smith,Melancon,3:29,N,"35,670",.01,-,2022
+157,"Friday, Sep 30",HOU,TBR,L,3,7,,102-55,1,up15.5,Rasmussen,Valdez,,2:54,N,"37,349",.00,--,2022
+158,"Saturday, Oct 1",HOU,TBR,W,2,1,,103-55,1,up15.5,Javier,McClanahan,Pressly,2:44,N,"37,406",.00,+,2022
+159,"Sunday, Oct 2",HOU,TBR,W,3,1,,104-55,1,up16.5,Garcia,Kluber,Montero,2:56,D,"35,809",.00,++,2022
+160,"Monday, Oct 3",HOU,PHI,L,0,3,,104-56,1,up16.5,Nola,McCullers,Eflin,2:59,N,"32,324",.00,-,2022
+161,"Tuesday, Oct 4",HOU,PHI,W,10,0,,105-56,1,up16.0,Verlander,Suárez,,3:01,N,"32,032",.00,+,2022
+162,"Wednesday, Oct 5",HOU,PHI,W,3,2,,106-56,1,up16.0,Valdez,Plassmeyer,Pressly,2:49,D,"32,432",.00,++,2022
+1,"Thursday, Apr 1",HOU,OAK,W,8,1,,1-0,1,Tied,Greinke,Bassitt,,3:28,N,"10,436",1.06,+,2021
+2,"Friday, Apr 2",HOU,OAK,W,9,5,,2-0,1,up 1.0,Abreu,Luzardo,,3:34,N,"5,446",1.08,++,2021
+3,"Saturday, Apr 3",HOU,OAK,W,9,1,,3-0,1,up 1.0,McCullers,Irvin,Raley,3:24,D,"5,803",1.18,+++,2021
+4,"Sunday, Apr 4",HOU,OAK,W,9,2,,4-0,1,up 1.0,Bielak,Manaea,,3:15,D,"4,504",1.19,++++,2021
+5,"Monday, Apr 5",HOU,LAA,L,6,7,,4-1,1,Tied,Watson,Smith,Mayers,4:01,N,"13,447",1.26,-,2021
+6,"Tuesday, Apr 6",HOU,LAA,W,4,2,,5-1,1,up 1.0,Pressly,Iglesias,,2:47,D,"11,122",1.31,+,2021
+7,"Thursday, Apr 8",HOU,OAK,W,6,2,,6-1,1,up 1.0,Javier,Irvin,,3:10,N,"21,765",1.25,++,2021
+8,"Friday, Apr 9",HOU,OAK,L,2,6,,6-2,1,Tied,Petit,Abreu,,3:14,N,"21,768",1.24,-,2021
+9,"Saturday, Apr 10",HOU,OAK,L,3,7,,6-3,1,Tied,Montas,Urquidy,,3:14,D,"21,760",1.23,--,2021
+10,"Monday, Apr 12",HOU,DET,L,2,6,,6-4,2,1.0,Mize,Greinke,,3:04,N,"15,779",1.10,---,2021
+11,"Tuesday, Apr 13",HOU,DET,L,2,8,,6-5,2,1.0,Boyd,Odorizzi,,3:27,N,"17,080",1.05,----,2021
+12,"Wednesday, Apr 14",HOU,DET,L,4,6,,6-6,3,1.0,Fulmer,McCullers,Garcia,4:00,N,"14,720",1.07,-----,2021
+13,"Friday, Apr 16",HOU,SEA,L-wo,5,6,,6-7,4,2.5,Misiewicz,Stanek,,3:04,N,"8,967",1.09,------,2021
+14,"Saturday, Apr 17",HOU,SEA,W,1,0,,7-7,4,1.5,Greinke,Flexen,Pressly,2:36,N,"8,960",1.06,+,2021
+15,"Sunday, Apr 18",HOU,SEA,L,2,7,,7-8,4,2.5,Newsome,Odorizzi,,3:19,D,"8,959",1.13,-,2021
+16,"Tuesday, Apr 20",HOU,COL,L,2,6,,7-9,4,3.0,Gray,Garcia,,3:08,N,"10,144",.87,--,2021
+17,"Wednesday, Apr 21",HOU,COL,L,3,6,,7-10,5,4.0,Gomber,Urquidy,,2:34,D,"7,120",.84,---,2021
+18,"Thursday, Apr 22",HOU,LAA,W,8,2,,8-10,5,3.5,Javier,Cobb,,3:43,N,"13,985",.87,+,2021
+19,"Friday, Apr 23",HOU,LAA,W-wo,5,4,10,9-10,4,3.5,Pressly,Iglesias,,3:33,N,"21,728",.92,++,2021
+20,"Saturday, Apr 24",HOU,LAA,W,16,2,,10-10,3,3.5,Emanuel,Canning,,3:20,D,"21,820",1.01,+++,2021
+21,"Sunday, Apr 25",HOU,LAA,L,2,4,,10-11,4,3.5,Rodriguez,Garcia,Iglesias,3:04,D,"21,781",1.02,-,2021
+22,"Monday, Apr 26",HOU,SEA,W,5,2,,11-11,4,3.5,Urquidy,Sheffield,Pressly,3:07,N,"11,862",1.04,+,2021
+23,"Tuesday, Apr 27",HOU,SEA,W,2,0,,12-11,3,2.5,Javier,Gonzales,Pressly,2:40,N,"14,413",1.09,++,2021
+24,"Wednesday, Apr 28",HOU,SEA,W,7,5,,13-11,2,1.5,Smith,Montero,Stanek,3:29,N,"12,707",1.13,+++,2021
+25,"Thursday, Apr 29",HOU,SEA,L,0,1,,13-12,3,2.5,Kikuchi,Garcia,Graveman,2:43,D,"14,149",1.19,-,2021
+26,"Friday, Apr 30",HOU,TBR,W,9,2,,14-12,3,1.5,McCullers,Yarbrough,,3:10,N,"6,169",1.05,+,2021
+27,"Saturday, May 1",HOU,TBR,W,3,1,,15-12,2,0.5,Urquidy,Fleming,Pressly,2:40,D,"7,335",1.07,++,2021
+28,"Sunday, May 2",HOU,TBR,L,4,5,,15-13,3,1.5,Springs,Raley,Castillo,3:21,D,"6,933",1.13,-,2021
+29,"Tuesday, May 4",HOU,NYY,L,3,7,,15-14,3,3.0,Luetge,Bielak,,3:27,N,"10,850",1.09,--,2021
+30,"Wednesday, May 5",HOU,NYY,L,3,6,,15-15,3,3.0,Loáisiga,Raley,Chapman,3:35,N,"9,895",1.01,---,2021
+31,"Thursday, May 6",HOU,NYY,W,7,4,,16-15,3,2.0,Scrubb,Green,Pressly,3:14,D,"10,042",1.04,+,2021
+32,"Friday, May 7",HOU,TOR,W,10,4,,17-15,3,2.0,Urquidy,Stripling,,3:14,N,"25,410",1.08,++,2021
+33,"Saturday, May 8",HOU,TOR,L,4,8,,17-16,3,3.0,Matz,Javier,,3:09,N,"25,794",1.12,-,2021
+34,"Sunday, May 9",HOU,TOR,W,7,4,,18-16,2,2.0,Abreu,Pearson,Pressly,3:30,D,"24,355",1.10,+,2021
+35,"Monday, May 10",HOU,LAA,L,4,5,,18-17,2,2.5,Suarez,Bielak,Iglesias,3:57,N,"13,695",1.20,-,2021
+36,"Tuesday, May 11",HOU,LAA,W,5,1,,19-17,2,2.5,McCullers,Slegers,,2:33,N,"17,350",1.18,+,2021
+37,"Wednesday, May 12",HOU,LAA,W,9,1,,20-17,2,2.5,Bielak,Heaney,,2:52,N,"13,668",1.21,++,2021
+38,"Thursday, May 13",HOU,TEX,W-wo,4,3,11,21-17,2,1.5,Raley,Martin,,3:44,N,"16,340",1.29,+++,2021
+39,"Friday, May 14",HOU,TEX,W,10,4,,22-17,2,1.5,Greinke,Benjamin,,3:01,N,"24,495",1.29,++++,2021
+40,"Saturday, May 15",HOU,TEX,W,6,5,,23-17,2,0.5,Garcia,Dunning,Pressly,3:26,N,"25,858",1.31,+++++,2021
+41,"Sunday, May 16",HOU,TEX,W,6,2,,24-17,2,0.5,Raley,Rodríguez,,3:03,D,"26,069",1.38,++++++,2021
+42,"Tuesday, May 18",HOU,OAK,L-wo,5,6,,24-18,2,1.5,Petit,Abreu,,3:09,N,"4,838",1.57,-,2021
+43,"Wednesday, May 19",HOU,OAK,W,8,1,,25-18,2,0.5,Greinke,Montas,,3:18,N,"3,925",1.60,+,2021
+44,"Thursday, May 20",HOU,OAK,W,8,4,,26-18,1,up 0.5,Garcia,Irvin,,3:26,D,"4,562",1.70,++,2021
+45,"Friday, May 21",HOU,TEX,L-wo,5,7,10,26-19,2,0.5,Hearn,Abreu,,4:08,N,"30,445",1.43,-,2021
+46,"Saturday, May 22",HOU,TEX,L,4,8,,26-20,2,1.5,Allard,Scrubb,,3:24,D,"38,055",1.41,--,2021
+47,"Sunday, May 23",HOU,TEX,L-wo,2,3,10,26-21,2,1.5,King,Pressly,,3:39,D,"36,444",1.44,---,2021
+48,"Tuesday, May 25",HOU,LAD,L,2,9,,26-22,2,1.0,Kershaw,Greinke,,3:27,N,"34,443",1.31,----,2021
+49,"Wednesday, May 26",HOU,LAD,W,5,2,,27-22,2,1.0,Garcia,Bauer,Abreu,3:05,N,"30,939",1.24,+,2021
+50,"Friday, May 28",HOU,SDP,L,3,10,11,27-23,2,2.5,Melancon,Raley,,4:43,N,"32,045",1.27,-,2021
+51,"Saturday, May 29",HOU,SDP,L,8,11,12,27-24,2,2.5,Adams,Garza,Díaz,5:08,D,"31,323",1.22,--,2021
+52,"Sunday, May 30",HOU,SDP,W,7,4,,28-24,2,1.5,Greinke,Snell,,2:47,D,"29,019",1.23,+,2021
+53,"Monday, May 31",HOU,BOS,W,11,2,,29-24,2,0.5,Urquidy,Rodriguez,,3:15,D,"28,543",1.31,++,2021
+54,"Tuesday, Jun 1",HOU,BOS,W,5,1,,30-24,2,0.5,Garcia,Richards,,3:23,N,"23,449",1.34,+++,2021
+55,"Wednesday, Jun 2",HOU,BOS,W,2,1,,31-24,2,0.5,Valdez,Pivetta,Pressly,2:57,N,"22,664",1.36,++++,2021
+56,"Thursday, Jun 3",HOU,BOS,L,1,5,,31-25,2,1.0,Pérez,Odorizzi,,3:07,D,"24,853",1.39,-,2021
+57,"Friday, Jun 4",HOU,TOR,W,13,1,,32-25,2,1.0,Greinke,Ryu,,2:58,N,"5,510",1.35,+,2021
+58,"Saturday, Jun 5",HOU,TOR,L,2,6,,32-26,2,2.0,Stripling,Urquidy,,2:50,D,"5,327",1.42,-,2021
+59,"Sunday, Jun 6",HOU,TOR,W,6,3,,33-26,2,1.0,Garcia,Matz,Pressly,3:32,D,"5,404",1.38,+,2021
+60,"Tuesday, Jun 8",HOU,BOS,W,7,1,,34-26,2,1.0,Valdez,Pérez,,3:28,N,"23,604",1.42,++,2021
+61,"Wednesday, Jun 9",HOU,BOS,W,8,3,,35-26,2,1.0,Odorizzi,Eovaldi,Javier,3:07,N,"21,007",1.44,+++,2021
+62,"Thursday, Jun 10",HOU,BOS,L,8,12,,35-27,2,1.0,Hernández,Taylor,,3:47,N,"23,378",1.44,-,2021
+63,"Friday, Jun 11",HOU,MIN,W,6,4,,36-27,2,1.0,Stanek,Shoemaker,Pressly,2:58,N,"17,223",1.37,+,2021
+64,"Saturday, Jun 12",HOU,MIN,L,2,5,,36-28,2,2.0,Berríos,Garcia,Rogers,3:20,N,"18,767",1.38,-,2021
+65,"Sunday, Jun 13",HOU,MIN,W,14,3,,37-28,2,2.0,Valdez,Pineda,,3:11,D,"19,147",1.38,+,2021
+66,"Tuesday, Jun 15",HOU,TEX,W-wo,6,3,10,38-28,2,2.5,Pressly,Evans,,3:34,N,"26,379",1.37,++,2021
+67,"Wednesday, Jun 16",HOU,TEX,W,8,4,,39-28,2,2.5,Greinke,Lyles,,3:01,N,"22,735",1.38,+++,2021
+68,"Thursday, Jun 17",HOU,CHW,W,10,2,,40-28,2,2.0,Urquidy,Cease,,2:45,N,"21,795",1.39,++++,2021
+69,"Friday, Jun 18",HOU,CHW,W-wo,2,1,,41-28,2,2.0,Pressly,Crochet,,2:46,N,"30,898",1.46,+++++,2021
+70,"Saturday, Jun 19",HOU,CHW,W,7,3,,42-28,2,1.0,Valdez,Lynn,,3:10,N,"35,210",1.44,++++++,2021
+71,"Sunday, Jun 20",HOU,CHW,W,8,2,,43-28,1,Tied,McCullers,Keuchel,,3:18,D,"39,821",1.45,+++++++,2021
+72,"Monday, Jun 21",HOU,BAL,W,10,2,,44-28,1,up 1.0,Odorizzi,Akin,,3:40,N,"7,414",1.42,++++++++,2021
+73,"Tuesday, Jun 22",HOU,BAL,W,3,1,,45-28,1,up 1.0,Greinke,López,Pressly,2:55,N,"8,510",1.39,+++++++++,2021
+74,"Wednesday, Jun 23",HOU,BAL,W,13,0,,46-28,1,up 2.0,Urquidy,Eshelman,,2:46,N,"10,013",1.32,++++++++++,2021
+75,"Thursday, Jun 24",HOU,DET,W,12,3,,47-28,1,up 2.0,Garcia,Ureña,,3:52,N,"12,656",1.27,+++++++++++,2021
+76,"Saturday, Jun 26(1)",HOU,DET,L,1,3,7,47-29,1,up 3.0,Mize,Valdez,Cisnero,2:06,D,"12,422",1.25,-,2021
+77,"Saturday, Jun 26(2)",HOU,DET,W,3,2,7,48-29,1,up 3.0,McCullers,Fulmer,Pressly,2:21,N,"13,950",1.32,+,2021
+78,"Sunday, Jun 27",HOU,DET,L-wo,1,2,10,48-30,1,up 2.0,Soto,Taylor,,3:29,D,"13,532",1.28,-,2021
+79,"Monday, Jun 28",HOU,BAL,L,7,9,,48-31,1,up 1.5,Fry,Bielak,Plutko,4:19,N,"24,419",1.31,--,2021
+80,"Tuesday, Jun 29",HOU,BAL,L,3,13,,48-32,1,up 1.5,Wells,Garza,Tate,3:53,N,"30,346",1.39,---,2021
+81,"Wednesday, Jun 30",HOU,BAL,L,2,5,,48-33,1,up 0.5,Scott,Garcia,Sulser,3:34,N,"28,124",1.45,----,2021
+82,"Thursday, Jul 1",HOU,CLE,W,7,2,,49-33,1,up 1.5,Valdez,Mejía,,3:04,N,"13,772",1.55,+,2021
+83,"Friday, Jul 2",HOU,CLE,W,6,3,,50-33,1,up 2.5,McCullers,Hentges,Pressly,3:29,N,"24,337",1.52,++,2021
+84,"Saturday, Jul 3",HOU,CLE,W,3,2,,51-33,1,up 2.5,Odorizzi,Morgan,Pressly,3:24,N,"24,961",1.42,+++,2021
+85,"Sunday, Jul 4",HOU,CLE,W,4,3,10,52-33,1,up 3.5,Taylor,Clase,Raley,3:16,D,"17,412",1.35,++++,2021
+86,"Tuesday, Jul 6",HOU,OAK,W,9,6,,53-33,1,up 4.5,Abreu,Wendelken,Pressly,3:15,N,"26,353",1.73,+++++,2021
+87,"Wednesday, Jul 7",HOU,OAK,W,4,3,,54-33,1,up 5.5,Taylor,Manaea,Pressly,2:58,N,"21,150",1.60,++++++,2021
+88,"Thursday, Jul 8",HOU,OAK,L,1,2,,54-34,1,up 4.5,Montas,McCullers,Diekman,2:52,D,"29,243",1.49,-,2021
+89,"Friday, Jul 9",HOU,NYY,L,0,4,,54-35,1,up 4.5,Luetge,Odorizzi,,3:14,N,"40,857",1.27,--,2021
+90,"Saturday, Jul 10",HOU,NYY,L,0,1,,54-36,1,up 3.5,Cole,Greinke,,3:00,N,"41,259",1.33,---,2021
+91,"Sunday, Jul 11",HOU,NYY,W-wo,8,7,,55-36,1,up 3.5,Garza,Green,,3:38,D,"37,928",1.44,+,2021
+92,"Friday, Jul 16",HOU,CHW,W,7,1,,56-36,1,up 3.5,McCullers,Cease,,3:07,N,"34,516",1.41,++,2021
+93,"Saturday, Jul 17",HOU,CHW,L,1,10,,56-37,1,up 3.5,Giolito,Odorizzi,,2:51,N,"34,304",1.31,-,2021
+94,"Sunday, Jul 18",HOU,CHW,L,0,4,,56-38,1,up 3.5,Rodón,Valdez,,2:28,D,"34,148",1.34,--,2021
+95,"Monday, Jul 19",HOU,CLE,W,4,3,,57-38,1,up 3.5,Greinke,Mejía,Pressly,3:25,N,"21,963",1.49,+,2021
+96,"Tuesday, Jul 20",HOU,CLE,W,9,3,,58-38,1,up 3.5,Garcia,McKenzie,,3:13,N,"26,586",1.35,++,2021
+97,"Wednesday, Jul 21",HOU,CLE,L,4,5,,58-39,1,up 3.0,Shaw,Pruitt,Karinchak,3:07,N,"21,712",1.39,-,2021
+98,"Friday, Jul 23",HOU,TEX,W,7,3,,59-39,1,up 3.5,Bielak,Allard,,3:15,N,"38,853",1.38,+,2021
+99,"Saturday, Jul 24",HOU,TEX,W,4,1,,60-39,1,up 4.5,Valdez,Gibson,,3:10,N,"37,050",1.30,++,2021
+100,"Sunday, Jul 25",HOU,TEX,W,3,1,,61-39,1,up 5.5,Greinke,Santana,Pressly,2:59,D,"35,627",1.20,+++,2021
+101,"Monday, Jul 26",HOU,SEA,L,8,11,,61-40,1,up 5.0,Graveman,Stanek,Sewald,3:54,N,"15,162",1.48,-,2021
+102,"Tuesday, Jul 27",HOU,SEA,W,8,6,,62-40,1,up 6.0,McCullers,Flexen,,3:26,N,"18,930",1.67,+,2021
+103,"Wednesday, Jul 28",HOU,SEA,W,11,4,,63-40,1,up 6.0,Odorizzi,Kikuchi,,4:14,D,"18,908",1.37,++,2021
+104,"Friday, Jul 30",HOU,SFG,W,9,6,,64-40,1,up 5.5,Valdez,Gausman,,3:58,N,"28,020",1.11,+++,2021
+105,"Saturday, Jul 31",HOU,SFG,L,6,8,,64-41,1,up 5.5,Jackson,Taylor,McGee,3:11,D,"27,324",.99,-,2021
+106,"Sunday, Aug 1",HOU,SFG,L,3,5,,64-42,1,up 4.5,Webb,Garcia,McGee,3:01,D,"29,655",1.09,--,2021
+107,"Tuesday, Aug 3",HOU,LAD,W,3,0,,65-42,1,up 5.5,McCullers,Buehler,Stanek,3:23,N,"52,692",1.17,+,2021
+108,"Wednesday, Aug 4",HOU,LAD,L,5,7,,65-43,1,up 4.5,Scherzer,Odorizzi,,3:10,N,"52,724",1.03,-,2021
+109,"Thursday, Aug 5",HOU,MIN,L,3,5,,65-44,1,up 4.0,Jax,Valdez,Colomé,3:14,N,"26,208",1.24,--,2021
+110,"Friday, Aug 6",HOU,MIN,L,4,5,11,65-45,1,up 3.0,Minaya,Montero,,3:54,N,"29,631",1.33,---,2021
+111,"Saturday, Aug 7",HOU,MIN,W,4,0,,66-45,1,up 3.0,Garcia,Pineda,,2:55,N,"29,647",1.48,+,2021
+112,"Sunday, Aug 8",HOU,MIN,L,5,7,,66-46,1,up 2.0,Maeda,McCullers,Colomé,4:07,D,"26,825",1.42,-,2021
+113,"Tuesday, Aug 10",HOU,COL,W,5,0,,67-46,1,up 2.0,Odorizzi,Gray,,3:28,N,"28,931",1.56,+,2021
+114,"Wednesday, Aug 11",HOU,COL,W,5,1,,68-46,1,up 2.0,Valdez,Senzatela,,3:04,D,"22,200",1.45,++,2021
+115,"Friday, Aug 13",HOU,LAA,W,4,1,,69-46,1,up 2.5,Greinke,Sandoval,Pressly,2:51,N,"23,981",1.49,+++,2021
+116,"Saturday, Aug 14",HOU,LAA,W,8,2,,70-46,1,up 2.5,Garcia,Barria,,3:35,N,"27,121",1.36,++++,2021
+117,"Sunday, Aug 15",HOU,LAA,L,1,3,,70-47,1,up 2.5,Detmers,McCullers,Iglesias,3:02,D,"19,281",1.31,-,2021
+118,"Monday, Aug 16",HOU,KCR,L,6,7,,70-48,1,up 2.5,Barlow,García,,3:06,N,"10,228",1.41,--,2021
+119,"Tuesday, Aug 17",HOU,KCR,L,1,3,,70-49,1,up 2.5,Lynch,Valdez,Brentz,2:45,N,"9,748",1.52,---,2021
+120,"Wednesday, Aug 18",HOU,KCR,L,2,3,,70-50,1,up 2.5,Tapia,Taylor,Barlow,2:49,N,"12,278",1.62,----,2021
+121,"Thursday, Aug 19",HOU,KCR,W,6,3,10,71-50,1,up 2.5,Pressly,Davis,Javier,3:48,D,"9,884",1.68,+,2021
+122,"Friday, Aug 20",HOU,SEA,W,12,3,,72-50,1,up 2.5,McCullers,Kikuchi,,3:05,N,"26,899",1.98,++,2021
+123,"Saturday, Aug 21",HOU,SEA,W,15,1,,73-50,1,up 3.5,Odorizzi,Gilbert,,3:22,D,"29,908",1.88,+++,2021
+124,"Sunday, Aug 22",HOU,SEA,L,3,6,11,73-51,1,up 3.5,Sewald,Stanek,Ramirez,3:58,D,"27,526",1.61,-,2021
+125,"Monday, Aug 23",HOU,KCR,L,1,7,,73-52,1,up 3.5,Lynch,Greinke,,3:35,N,"18,742",1.55,--,2021
+126,"Tuesday, Aug 24",HOU,KCR,W,4,0,,74-52,1,up 4.5,Garcia,Singer,,3:21,N,"22,964",1.65,+,2021
+127,"Wednesday, Aug 25",HOU,KCR,W-wo,6,5,10,75-52,1,up 5.0,Graveman,Payamps,,3:45,D,"21,052",1.56,++,2021
+128,"Friday, Aug 27",HOU,TEX,W,5,4,,76-52,1,up 6.5,Maton,Martin,Pressly,3:15,N,"29,286",1.21,+++,2021
+129,"Saturday, Aug 28",HOU,TEX,W,5,2,,77-52,1,up 6.5,Valdez,Allard,Pressly,2:48,N,"37,810",.95,++++,2021
+130,"Sunday, Aug 29",HOU,TEX,L,2,13,,77-53,1,up 5.5,Hearn,Greinke,,3:12,D,"31,062",.83,-,2021
+131,"Monday, Aug 30",HOU,SEA,W,4,3,,78-53,1,up 6.0,Maton,Smith,Pressly,3:35,N,"11,630",1.28,+,2021
+132,"Tuesday, Aug 31",HOU,SEA,L,0,4,,78-54,1,up 5.0,Sewald,Graveman,,3:13,N,"10,452",.96,-,2021
+133,"Wednesday, Sep 1",HOU,SEA,L,0,1,,78-55,1,up 5.0,Sheffield,Odorizzi,Sewald,3:17,D,"10,519",1.18,--,2021
+134,"Friday, Sep 3",HOU,SDP,W,6,3,,79-55,1,up 5.5,Taylor,Pagán,Pressly,3:37,N,"37,033",1.29,+,2021
+135,"Saturday, Sep 4",HOU,SDP,L,2,10,,79-56,1,up 5.5,Musgrove,Valdez,,3:21,N,"35,338",1.12,-,2021
+136,"Sunday, Sep 5",HOU,SDP,L-wo,3,4,,79-57,1,up 4.5,Melancon,Stanek,,2:58,D,"35,007",1.24,--,2021
+137,"Monday, Sep 6",HOU,SEA,W,11,2,,80-57,1,up 5.5,McCullers,Kikuchi,Bielak,3:23,N,"25,802",2.08,+,2021
+138,"Tuesday, Sep 7",HOU,SEA,W-wo,5,4,10,81-57,1,up 6.5,Stanek,Ramirez,,3:29,N,"20,353",1.56,++,2021
+139,"Wednesday, Sep 8",HOU,SEA,L,5,8,,81-58,1,up 5.5,Castillo,Pressly,,3:46,D,"19,089",.96,-,2021
+140,"Friday, Sep 10",HOU,LAA,W,10,5,,82-58,1,up 5.5,Valdez,Ohtani,,3:37,N,"28,740",1.12,+,2021
+141,"Saturday, Sep 11",HOU,LAA,L,2,4,,82-59,1,up 5.5,Suarez,Garcia,Iglesias,3:42,N,"31,547",1.04,-,2021
+142,"Sunday, Sep 12",HOU,LAA,W,3,1,,83-59,1,up 6.5,McCullers,Quijada,Pressly,3:19,D,"28,763",1.15,+,2021
+143,"Monday, Sep 13",HOU,TEX,W,15,1,,84-59,1,up 6.5,Javier,Howard,,3:53,N,"18,903",.72,++,2021
+144,"Tuesday, Sep 14",HOU,TEX,L,1,8,,84-60,1,up 6.5,Lyles,Greinke,,2:45,N,"19,451",.57,-,2021
+145,"Wednesday, Sep 15",HOU,TEX,W,7,2,,85-60,1,up 7.0,Urquidy,Arihara,,2:56,N,"20,991",.57,+,2021
+146,"Thursday, Sep 16",HOU,TEX,W,12,1,,86-60,1,up 7.0,Garcia,Otto,,3:28,N,"19,121",.41,++,2021
+147,"Friday, Sep 17",HOU,ARI,W-wo,4,3,10,87-60,1,up 7.0,Stanek,Clippard,,3:40,N,"22,595",.34,+++,2021
+148,"Saturday, Sep 18",HOU,ARI,L,4,6,10,87-61,1,up 6.0,Wendelken,García,Clippard,3:44,N,"25,314",.36,-,2021
+149,"Sunday, Sep 19",HOU,ARI,W,7,6,,88-61,1,up 6.0,Solomon,Sittinger,Pressly,3:17,D,"23,888",.53,+,2021
+150,"Monday, Sep 20",HOU,LAA,W,10,0,,89-61,1,up 7.0,Valdez,Barria,,3:12,N,"16,070",.47,++,2021
+151,"Tuesday, Sep 21",HOU,LAA,W,10,5,,90-61,1,up 8.0,Urquidy,Naughton,,3:08,N,"18,332",.22,+++,2021
+152,"Wednesday, Sep 22",HOU,LAA,W,9,5,12,91-61,1,up 8.0,García,Selman,,4:18,N,"14,863",.14,++++,2021
+153,"Thursday, Sep 23",HOU,LAA,L,2,3,,91-62,1,up 7.0,Warren,McCullers,Iglesias,3:18,N,"19,829",,-,2021
+154,"Friday, Sep 24",HOU,OAK,L,2,14,,91-63,1,up 6.0,Montas,Bielak,,3:46,N,"21,105",.11,--,2021
+155,"Saturday, Sep 25",HOU,OAK,L-wo,1,2,,91-64,1,up 6.0,Chafin,Pressly,,2:49,D,"13,037",.12,---,2021
+156,"Sunday, Sep 26",HOU,OAK,L-wo,3,4,,91-65,1,up 5.0,Trivino,Stanek,,3:37,D,"12,288",.09,----,2021
+157,"Tuesday, Sep 28",HOU,TBR,W-wo,4,3,,92-65,1,up 4.5,Maton,Fleming,,2:59,N,"32,297",.16,+,2021
+158,"Wednesday, Sep 29",HOU,TBR,L,0,7,,92-66,1,up 3.5,Rasmussen,Garcia,,3:04,N,"28,321",.13,-,2021
+159,"Thursday, Sep 30",HOU,TBR,W,3,2,,93-66,1,up 4.0,McCullers,Yarbrough,Pressly,3:00,N,"31,608",.32,+,2021
+160,"Friday, Oct 1",HOU,OAK,L,6,8,,93-67,1,up 4.0,Manaea,Valdez,Trivino,3:54,N,"26,762",.12,-,2021
+161,"Saturday, Oct 2",HOU,OAK,W,10,4,,94-67,1,up 4.0,Maton,Blackburn,,3:48,N,"29,208",.32,+,2021
+162,"Sunday, Oct 3",HOU,OAK,W-wo,7,6,,95-67,1,up 5.0,Taylor,Trivino,,2:52,D,"29,752",.37,++,2021
+1,"Friday, Jul 24",HOU,SEA,W,8,2,,1-0,1,Tied,Verlander,Gonzales,,2:49,N,,1.17,+,2020
+2,"Saturday, Jul 25",HOU,SEA,W,7,2,,2-0,1,up 1.0,McCullers,Walker,,2:53,D,,1.19,++,2020
+3,"Sunday, Jul 26",HOU,SEA,L,6,7,,2-1,1,Tied,Altavilla,Devenski,Williams,3:41,D,,1.20,-,2020
+4,"Monday, Jul 27",HOU,SEA,W,8,5,,3-1,1,Tied,Bielak,Graveman,Osuna,3:04,N,,1.19,+,2020
+5,"Tuesday, Jul 28",HOU,LAD,L,2,5,,3-2,1,Tied,Kolarek,Valdez,Jansen,3:19,N,,1.09,-,2020
+6,"Wednesday, Jul 29",HOU,LAD,L,2,4,13,3-3,1,Tied,Santana,Sneed,,4:44,N,,1.09,--,2020
+7,"Friday, Jul 31",HOU,LAA,W,9,6,,4-3,1,up 0.5,Bielak,Andriese,Scrubb,4:21,N,,1.22,+,2020
+8,"Saturday, Aug 1",HOU,LAA,L-wo,4,5,10,4-4,1,Tied,Buchter,Rodriguez,,3:58,D,,1.25,-,2020
+9,"Sunday, Aug 2",HOU,LAA,W,6,5,11,5-4,1,Tied,Taylor,Barnes,,4:37,D,,1.26,+,2020
+10,"Tuesday, Aug 4",HOU,ARI,W,8,2,,6-4,2,0.5,Javier,Bumgarner,,3:09,N,,1.10,++,2020
+11,"Wednesday, Aug 5",HOU,ARI,L,7,14,,6-5,2,1.5,Ray,McCullers,,3:14,N,,1.12,-,2020
+12,"Thursday, Aug 6",HOU,ARI,L-wo,4,5,,6-6,2,2.5,Guerra,Pressly,,3:15,D,,1.11,--,2020
+13,"Friday, Aug 7",HOU,OAK,L-wo,2,3,13,6-7,2,3.5,Wendelken,Sneed,,4:13,N,,1.29,---,2020
+14,"Saturday, Aug 8",HOU,OAK,L,1,3,,6-8,2,4.5,Montas,Valdez,Hendriks,2:24,D,,1.27,----,2020
+15,"Sunday, Aug 9",HOU,OAK,L,2,7,,6-9,3,5.5,Luzardo,Javier,Smith,2:58,D,,1.22,-----,2020
+16,"Monday, Aug 10",HOU,SFG,W,6,4,,7-9,2,4.5,McCullers,Webb,Pressly,3:07,N,,1.07,+,2020
+17,"Tuesday, Aug 11",HOU,SFG,L,6,7,10,7-10,3,4.5,Gott,Sneed,Rogers,3:52,N,,1.12,-,2020
+18,"Wednesday, Aug 12",HOU,SFG,W,5,1,,8-10,3,4.5,Greinke,Baragar,,3:25,N,,1.08,+,2020
+19,"Friday, Aug 14",HOU,SEA,W,11,1,,9-10,3,4.5,Valdez,Cortes,,3:10,N,,1.25,++,2020
+20,"Saturday, Aug 15",HOU,SEA,W,2,1,,10-10,3,4.5,Javier,Margevicius,Pressly,2:30,N,,1.28,+++,2020
+21,"Sunday, Aug 16",HOU,SEA,W-wo,3,2,,11-10,2,4.5,Pressly,Swanson,,2:56,D,,1.27,++++,2020
+22,"Monday, Aug 17",HOU,COL,W,2,1,,12-10,2,3.5,Bielak,Freeland,Taylor,2:50,N,,1.18,+++++,2020
+23,"Tuesday, Aug 18",HOU,COL,W-wo,2,1,11,13-10,2,2.5,Scrubb,Díaz,,3:03,D,,1.16,++++++,2020
+24,"Wednesday, Aug 19",HOU,COL,W,13,6,,14-10,2,2.5,Valdez,Castellani,,3:09,N,,1.09,+++++++,2020
+25,"Thursday, Aug 20",HOU,COL,W,10,8,,15-10,2,2.5,Paredes,Márquez,Pressly,3:31,D,,1.01,++++++++,2020
+26,"Friday, Aug 21",HOU,SDP,L,3,4,,15-11,2,3.5,Guerra,McCullers,Pagán,3:41,N,,.93,-,2020
+27,"Saturday, Aug 22",HOU,SDP,L,2,13,,15-12,2,3.5,Davies,Bielak,,2:41,N,,.92,--,2020
+28,"Sunday, Aug 23",HOU,SDP,L,3,5,,15-13,2,4.5,Stammen,Paredes,Pagán,3:04,D,,.98,---,2020
+29,"Monday, Aug 24",HOU,LAA,W,11,4,,16-13,2,3.5,Valdez,Sandoval,,3:25,N,,1.10,+,2020
+30,"Tuesday, Aug 25(1)",HOU,LAA,W,6,3,7,17-13,2,4.0,Javier,Suarez,Pressly,2:26,D,,1.07,++,2020
+31,"Tuesday, Aug 25(2)",HOU,LAA,L,5,12,7,17-14,2,4.0,Peña,Bielak,,3:24,N,,.97,-,2020
+32,"Saturday, Aug 29(1)",HOU,OAK,W,4,2,7,18-14,2,2.5,McCullers,Bassitt,Pressly,2:07,D,,1.05,+,2020
+33,"Saturday, Aug 29(2)",HOU,OAK,W,6,3,7,19-14,2,2.5,Greinke,Montas,Pressly,2:33,N,,1.01,++,2020
+34,"Tuesday, Sep 1",HOU,TEX,L,5,6,10,19-15,2,3.0,Hernández,Taylor,Montero,3:28,N,,.93,-,2020
+35,"Wednesday, Sep 2",HOU,TEX,W,2,1,,20-15,2,2.5,Javier,Allard,Pressly,2:27,N,,1.09,+,2020
+36,"Thursday, Sep 3",HOU,TEX,W,8,4,,21-15,2,2.0,Greinke,Lynn,,3:11,D,,.91,++,2020
+37,"Friday, Sep 4",HOU,LAA,L-wo,5,6,11,21-16,2,2.0,Andriese,Raley,,4:27,N,,.71,-,2020
+38,"Saturday, Sep 5(1)",HOU,LAA,L-wo,9,10,7,21-17,2,3.5,Peña,Paredes,,3:01,D,,.80,--,2020
+39,"Saturday, Sep 5(2)",HOU,LAA,L,6,7,7,21-18,2,3.5,Ramirez,Castellanos,Buttrey,2:44,N,,.89,---,2020
+40,"Sunday, Sep 6",HOU,LAA,L,5,9,,21-19,2,3.5,Mayers,Valdez,,3:28,D,,1.01,----,2020
+41,"Monday, Sep 7",HOU,OAK,L,0,6,,21-20,2,4.5,Bassitt,Javier,,2:55,N,,1.25,-----,2020
+42,"Tuesday, Sep 8(1)",HOU,OAK,L,2,4,7,21-21,2,4.5,Montas,Greinke,Hendriks,2:23,D,,1.36,------,2020
+43,"Tuesday, Sep 8(2)",HOU,OAK,W,5,4,7,22-21,2,4.5,Paredes,Wendelken,Pressly,2:52,N,,1.36,+,2020
+44,"Wednesday, Sep 9",HOU,OAK,L-wo,2,3,,22-22,2,5.5,Hendriks,Pressly,,2:53,N,,1.27,-,2020
+45,"Thursday, Sep 10",HOU,OAK,L,1,3,,22-23,2,6.5,Manaea,Urquidy,Hendriks,2:18,D,,1.20,--,2020
+46,"Saturday, Sep 12",HOU,LAD,W,7,5,,23-23,2,6.5,James,Jansen,Pressly,3:15,N,,1.11,+,2020
+47,"Sunday, Sep 13",HOU,LAD,L,1,8,,23-24,2,6.5,González,Greinke,,2:52,N,,1.09,-,2020
+48,"Tuesday, Sep 15",HOU,TEX,W,4,1,,24-24,2,5.5,Urquidy,Goody,Pressly,3:00,N,,1.40,+,2020
+49,"Wednesday, Sep 16",HOU,TEX,L,0,1,,24-25,2,6.5,Gibson,Pressly,,2:36,N,,1.18,-,2020
+50,"Thursday, Sep 17",HOU,TEX,W,2,1,,25-25,2,6.0,Valdez,Lyles,Raley,2:33,N,,1.33,+,2020
+51,"Friday, Sep 18",HOU,ARI,L,3,6,,25-26,2,7.0,Gallen,Garcia,Crichton,3:08,N,,.86,-,2020
+52,"Saturday, Sep 19",HOU,ARI,W,3,2,,26-26,2,7.0,Paredes,Weaver,Pressly,2:37,N,,1.00,+,2020
+53,"Sunday, Sep 20",HOU,ARI,W,3,2,,27-26,2,6.0,Taylor,Guerra,Pressly,3:04,D,,.96,++,2020
+54,"Monday, Sep 21",HOU,SEA,L,1,6,,27-27,2,6.5,Gonzales,McCullers,,2:34,N,,.74,-,2020
+55,"Tuesday, Sep 22",HOU,SEA,W,6,1,,28-27,2,5.5,Valdez,Sadler,,3:06,N,,1.32,+,2020
+56,"Wednesday, Sep 23",HOU,SEA,L,2,3,,28-28,2,6.5,Margevicius,Greinke,Hirano,3:09,D,,.33,-,2020
+57,"Thursday, Sep 24",HOU,TEX,W,12,4,,29-28,2,5.5,Javier,Lynn,,3:11,N,,.75,+,2020
+58,"Friday, Sep 25",HOU,TEX,L-wo,4,5,10,29-29,2,6.5,Martin,Paredes,,3:15,N,,.26,-,2020
+59,"Saturday, Sep 26",HOU,TEX,L,1,6,,29-30,2,6.0,Herget,Bielak,,2:44,N,,.06,--,2020
+60,"Sunday, Sep 27",HOU,TEX,L,4,8,,29-31,2,7.0,Benjamin,De Jong,,3:28,D,,.07,---,2020
+1,"Thursday, Mar 28",HOU,TBR,W,5,1,,1-0,2,1.0,Verlander,Snell,,2:38,D,"25,025",.96,+,2019
+2,"Friday, Mar 29",HOU,TBR,L,2,4,,1-1,2,1.0,Morton,Cole,Alvarado,2:38,N,"13,059",.99,-,2019
+3,"Saturday, Mar 30",HOU,TBR,L,1,3,,1-2,3,2.0,Glasnow,McHugh,Alvarado,2:40,N,"16,010",.96,--,2019
+4,"Sunday, Mar 31",HOU,TBR,L,1,3,,1-3,4,3.0,Chirinos,Miley,Castillo,2:12,D,"18,473",.91,---,2019
+5,"Monday, Apr 1",HOU,TEX,W,2,1,,2-3,4,3.0,Peacock,Sampson,Osuna,2:39,N,"18,056",.98,+,2019
+6,"Tuesday, Apr 2",HOU,TEX,L,4,6,,2-4,4,4.0,Kelley,Valdez,Leclerc,3:23,N,"17,907",1.03,-,2019
+7,"Wednesday, Apr 3",HOU,TEX,L,0,4,,2-5,4,4.5,Minor,Cole,,2:39,N,"22,265",.97,--,2019
+8,"Friday, Apr 5",HOU,OAK,W,3,2,,3-5,4,3.5,McHugh,Montas,Osuna,3:03,N,"43,165",.90,+,2019
+9,"Saturday, Apr 6",HOU,OAK,W,6,0,,4-5,4,3.5,Miley,Brooks,,2:47,N,"34,487",.97,++,2019
+10,"Sunday, Apr 7",HOU,OAK,W-wo,9,8,,5-5,2,3.5,Osuna,Treinen,,3:39,D,"34,902",1.01,+++,2019
+11,"Monday, Apr 8",HOU,NYY,W,4,3,,6-5,2,3.5,Pressly,Ottavino,Osuna,2:59,N,"27,631",.97,++++,2019
+12,"Tuesday, Apr 9",HOU,NYY,W,6,3,,7-5,2,3.5,Rondón,Green,Osuna,3:15,N,"31,009",.97,+++++,2019
+13,"Wednesday, Apr 10",HOU,NYY,W,8,6,,8-5,2,3.5,McHugh,Paxton,Pressly,3:30,N,"27,685",1.01,++++++,2019
+14,"Friday, Apr 12",HOU,SEA,W,10,6,,9-5,2,3.0,Peacock,Armstrong,Osuna,3:22,N,"30,972",1.22,+++++++,2019
+15,"Saturday, Apr 13",HOU,SEA,W,3,1,,10-5,2,2.0,Verlander,Hernández,Osuna,2:46,N,"30,538",1.27,++++++++,2019
+16,"Sunday, Apr 14",HOU,SEA,W,3,2,,11-5,2,1.0,Cole,Brennan,Osuna,2:40,D,"29,242",1.35,+++++++++,2019
+17,"Tuesday, Apr 16",HOU,OAK,W,9,1,,12-5,1,up 0.5,McHugh,Estrada,,3:03,N,"12,270",1.27,++++++++++,2019
+18,"Wednesday, Apr 17",HOU,OAK,L,1,2,,12-6,1,up 0.5,Montas,Miley,Treinen,2:29,N,"11,323",1.32,-,2019
+19,"Friday, Apr 19",HOU,TEX,W,7,2,,13-6,1,Tied,Verlander,Smyly,,3:16,N,"35,649",1.36,+,2019
+20,"Saturday, Apr 20",HOU,TEX,L,4,9,,13-7,2,1.0,Kelley,Cole,,2:51,N,"39,636",1.39,-,2019
+21,"Sunday, Apr 21",HOU,TEX,L,10,11,,13-8,2,1.0,Miller,McHugh,Kelley,3:16,D,"26,225",1.34,--,2019
+22,"Monday, Apr 22",HOU,MIN,L,5,9,,13-9,2,1.5,Odorizzi,Peacock,,3:25,N,"34,518",1.17,---,2019
+23,"Tuesday, Apr 23",HOU,MIN,W,10,4,,14-9,2,0.5,Rondón,Hildenberger,,3:04,N,"29,409",1.17,+,2019
+24,"Wednesday, Apr 24",HOU,MIN,W,7,1,,15-9,1,up 0.5,Verlander,Stewart,,2:28,N,"26,582",1.20,++,2019
+25,"Thursday, Apr 25",HOU,CLE,L,1,2,,15-10,2,0.5,Bauer,Cole,Hand,2:40,N,"24,948",1.24,-,2019
+26,"Friday, Apr 26",HOU,CLE,L,3,6,,15-11,2,1.5,Cimber,Rondón,Hand,3:19,N,"38,084",1.23,--,2019
+27,"Saturday, Apr 27",HOU,CLE,W-wo,4,3,10,16-11,2,0.5,Osuna,Cimber,,3:12,D,"38,667",1.17,+,2019
+28,"Sunday, Apr 28",HOU,CLE,W,4,1,,17-11,1,up 0.5,Valdez,Carrasco,Pressly,2:48,N,"31,025",1.25,++,2019
+29,"Monday, Apr 29",HOU,MIN,L,0,1,,17-12,1,Tied,Odorizzi,Verlander,Parker,2:31,N,"12,615",1.26,-,2019
+30,"Tuesday, Apr 30",HOU,MIN,W,11,0,,18-12,1,up 1.0,Cole,Pineda,,3:18,N,"12,181",1.22,+,2019
+31,"Wednesday, May 1",HOU,MIN,L,2,6,,18-13,1,up 1.0,Pérez,McHugh,,2:28,N,"14,115",1.28,-,2019
+32,"Thursday, May 2",HOU,MIN,L,2,8,,18-14,1,up 0.5,Berríos,Peacock,,2:32,D,"17,271",1.27,--,2019
+33,"Saturday, May 4",HOU,LAA,W,14,2,,19-14,1,up 2.0,Miley,Cahill,,3:15,N,"18,177",1.41,+,2019
+34,"Sunday, May 5",HOU,LAA,W,10,4,,20-14,1,up 2.0,Verlander,Harvey,,3:04,D,"17,614",1.42,++,2019
+35,"Monday, May 6",HOU,KCR,W,6,4,,21-14,1,up 3.0,Cole,Junis,Osuna,2:57,N,"27,079",1.25,+++,2019
+36,"Tuesday, May 7",HOU,KCR,L,2,12,,21-15,1,up 3.0,Duffy,McHugh,,2:45,N,"30,377",1.31,-,2019
+37,"Wednesday, May 8",HOU,KCR,W,9,0,,22-15,1,up 3.0,Peacock,López,,2:45,N,"22,698",1.28,+,2019
+38,"Thursday, May 9",HOU,TEX,W,4,2,,23-15,1,up 4.0,Miley,Minor,Osuna,2:58,N,"26,657",1.50,++,2019
+39,"Friday, May 10",HOU,TEX,W,3,0,,24-15,1,up 5.0,Verlander,Lynn,Osuna,2:29,N,"33,023",1.52,+++,2019
+40,"Saturday, May 11",HOU,TEX,W,11,4,,25-15,1,up 5.5,Cole,Smyly,,3:15,N,"35,849",1.52,++++,2019
+41,"Sunday, May 12",HOU,TEX,W,15,5,,26-15,1,up 6.5,Martin,Sampson,,3:08,D,"41,027",1.47,+++++,2019
+42,"Monday, May 13",HOU,DET,W,8,1,,27-15,1,up 6.5,Peacock,Boyd,,3:03,N,"15,086",1.27,++++++,2019
+43,"Tuesday, May 14",HOU,DET,W,11,4,,28-15,1,up 7.0,Miley,Carpenter,,2:49,N,"14,261",1.25,+++++++,2019
+44,"Wednesday, May 15",HOU,DET,W,5,1,,29-15,1,up 7.5,Verlander,Soto,,2:36,N,"15,940",1.21,++++++++,2019
+45,"Friday, May 17",HOU,BOS,W,3,1,,30-15,1,up 8.5,Harris,Porcello,Osuna,3:00,N,"35,558",1.17,+++++++++,2019
+46,"Saturday, May 18",HOU,BOS,W,7,3,,31-15,1,up 8.5,James,Velázquez,,3:31,N,"36,887",1.13,++++++++++,2019
+47,"Sunday, May 19",HOU,BOS,L,3,4,,31-16,1,up 8.5,Walden,Valdez,Workman,3:02,D,"35,796",1.11,-,2019
+48,"Monday, May 20",HOU,CHW,W,3,0,,32-16,1,up 8.5,Peacock,Burr,Osuna,2:40,N,"24,364",1.14,+,2019
+49,"Tuesday, May 21",HOU,CHW,W,5,1,,33-16,1,up 8.5,Verlander,Covey,,2:53,N,"31,392",1.10,++,2019
+50,"Wednesday, May 22",HOU,CHW,L,4,9,,33-17,1,up 7.5,Nova,Cole,,3:16,N,"30,237",1.05,-,2019
+51,"Thursday, May 23",HOU,CHW,L,0,4,,33-18,1,up 7.0,Giolito,Martin,,2:40,N,"26,073",1.14,--,2019
+52,"Friday, May 24",HOU,BOS,W,4,3,,34-18,1,up 7.0,Miley,Sale,Osuna,2:48,N,"35,606",1.22,+,2019
+53,"Saturday, May 25",HOU,BOS,W-wo,4,3,,35-18,1,up 7.0,Osuna,Barnes,,3:28,N,"40,722",1.17,++,2019
+54,"Sunday, May 26",HOU,BOS,L,1,4,,35-19,1,up 6.0,Rodriguez,Verlander,Walden,3:06,D,"41,502",1.11,-,2019
+55,"Monday, May 27",HOU,CHC,W,6,5,,36-19,1,up 6.0,Cole,Hamels,Osuna,3:12,D,"42,135",1.13,+,2019
+56,"Tuesday, May 28",HOU,CHC,W,9,6,,37-19,1,up 7.0,James,Lester,Osuna,3:08,N,"31,030",1.05,++,2019
+57,"Wednesday, May 29",HOU,CHC,L,1,2,,37-20,1,up 7.0,Hendricks,Miley,Cishek,2:37,N,"33,243",1.03,-,2019
+58,"Friday, May 31",HOU,OAK,W,3,2,,38-20,1,up 8.0,Rondón,Trivino,Osuna,2:52,N,"14,519",1.40,+,2019
+59,"Saturday, Jun 1",HOU,OAK,W,5,1,,39-20,1,up 8.5,Verlander,Anderson,,2:37,N,"20,425",1.25,++,2019
+60,"Sunday, Jun 2",HOU,OAK,W,6,4,12,40-20,1,up 8.5,James,Trivino,,4:24,D,"23,144",1.18,+++,2019
+61,"Monday, Jun 3",HOU,SEA,W,4,2,,41-20,1,up 9.0,Valdez,Gearrin,Pressly,2:49,N,"11,826",.91,++++,2019
+62,"Tuesday, Jun 4",HOU,SEA,W,11,5,,42-20,1,up10.0,Guduan,Brennan,,3:21,N,"12,208",.83,+++++,2019
+63,"Wednesday, Jun 5",HOU,SEA,L,1,14,,42-21,1,up 9.0,Leake,Peacock,,2:49,N,"13,653",.75,-,2019
+64,"Thursday, Jun 6",HOU,SEA,W,8,7,14,43-21,1,up 9.0,Devenski,Festa,,5:06,D,"20,267",.81,+,2019
+65,"Friday, Jun 7",HOU,BAL,W-wo,4,3,11,44-21,1,up10.0,Pérez,Kline,,3:13,N,"35,414",.77,++,2019
+66,"Saturday, Jun 8",HOU,BAL,L,1,4,,44-22,1,up 8.5,Fry,Harris,Castro,2:27,D,"38,425",.70,-,2019
+67,"Sunday, Jun 9",HOU,BAL,W,4,0,,45-22,1,up 9.5,Miley,Bundy,Osuna,2:46,D,"35,621",.79,+,2019
+68,"Tuesday, Jun 11",HOU,MIL,W,10,8,,46-22,1,up 9.0,Peacock,Peralta,,2:58,N,"35,928",.72,++,2019
+69,"Wednesday, Jun 12",HOU,MIL,L,3,6,14,46-23,1,up 9.0,Houser,Pérez,,4:16,N,"40,032",.70,-,2019
+70,"Friday, Jun 14",HOU,TOR,W,15,2,,47-23,1,up 9.5,Cole,Sanchez,Armenteros,2:53,N,"34,719",.75,+,2019
+71,"Saturday, Jun 15",HOU,TOR,W,7,2,,48-23,1,up 9.5,Valdez,Richard,,2:26,D,"38,012",.68,++,2019
+72,"Sunday, Jun 16",HOU,TOR,L,0,12,,48-24,1,up 9.5,Thornton,Peacock,,3:02,D,"42,174",.66,-,2019
+73,"Monday, Jun 17",HOU,CIN,L,2,3,,48-25,1,up 8.5,Castillo,Miley,Lorenzen,2:55,N,"22,745",.72,--,2019
+74,"Tuesday, Jun 18",HOU,CIN,L,3,4,,48-26,1,up 8.5,DeSclafani,Verlander,Lorenzen,2:55,N,"25,347",.80,---,2019
+75,"Wednesday, Jun 19",HOU,CIN,L-wo,2,3,,48-27,1,up 8.5,Bowman,Osuna,,2:38,D,"24,777",.90,----,2019
+76,"Thursday, Jun 20",HOU,NYY,L,6,10,,48-28,1,up 7.5,Cortes,Valdez,Chapman,3:31,N,"41,030",.97,-----,2019
+77,"Friday, Jun 21",HOU,NYY,L,1,4,,48-29,1,up 7.5,Paxton,Peacock,Chapman,3:06,N,"41,166",1.05,------,2019
+78,"Saturday, Jun 22",HOU,NYY,L,5,7,,48-30,1,up 6.5,Holder,Pressly,Britton,3:08,N,"46,034",1.11,-------,2019
+79,"Sunday, Jun 23",HOU,NYY,W,9,4,,49-30,1,up 6.5,Verlander,Happ,,2:48,D,"46,769",1.19,+,2019
+80,"Tuesday, Jun 25",HOU,PIT,W,5,1,,50-30,1,up 6.5,Cole,Williams,,2:57,N,"37,193",1.09,++,2019
+81,"Wednesday, Jun 26",HOU,PIT,L,2,14,,50-31,1,up 5.5,Agrazal,Valdez,,3:17,N,"39,312",1.05,-,2019
+82,"Thursday, Jun 27",HOU,PIT,L,0,10,,50-32,1,up 4.5,Musgrove,Peacock,,2:51,D,"38,943",1.19,--,2019
+83,"Friday, Jun 28",HOU,SEA,W-wo,2,1,10,51-32,1,up 4.5,Harris,Festa,,3:27,N,"32,828",1.27,+,2019
+84,"Saturday, Jun 29",HOU,SEA,W-wo,6,5,10,52-32,1,up 5.5,Devenski,Elías,,3:38,N,"35,082",1.31,++,2019
+85,"Sunday, Jun 30",HOU,SEA,W,6,1,,53-32,1,up 6.5,Cole,Gonzales,,2:52,D,"32,485",1.16,+++,2019
+86,"Tuesday, Jul 2",HOU,COL,W,9,8,,54-32,1,up 6.5,Harris,McGee,Osuna,3:27,N,"47,864",1.08,++++,2019
+87,"Wednesday, Jul 3",HOU,COL,W,4,2,,55-32,1,up 7.5,Miley,Lambert,Osuna,2:41,N,"48,308",1.04,+++++,2019
+88,"Friday, Jul 5",HOU,LAA,L,4,5,,55-33,1,up 6.0,Peña,Verlander,Robles,2:54,N,"41,219",1.05,-,2019
+89,"Saturday, Jul 6",HOU,LAA,W,4,0,,56-33,1,up 7.0,Cole,Heaney,,2:44,N,"39,470",1.14,+,2019
+90,"Sunday, Jul 7",HOU,LAA,W-wo,11,10,10,57-33,1,up 7.0,Pressly,Cole,,4:49,D,"37,264",1.06,++,2019
+91,"Thursday, Jul 11",HOU,TEX,L,0,5,,57-34,1,up 6.5,Lynn,Valdez,,3:02,N,"37,964",1.11,-,2019
+92,"Friday, Jul 12",HOU,TEX,L-wo,8,9,,57-35,1,up 5.5,Kelley,Osuna,,3:07,N,"32,322",1.34,--,2019
+93,"Saturday, Jul 13",HOU,TEX,W,7,6,11,58-35,1,up 5.5,James,Martin,Osuna,4:09,N,"42,452",1.46,+,2019
+94,"Sunday, Jul 14",HOU,TEX,W,12,4,,59-35,1,up 5.5,Verlander,Jurado,,3:40,D,"27,916",1.26,++,2019
+95,"Monday, Jul 15",HOU,LAA,L,6,9,,59-36,1,up 5.0,Anderson,Valdez,Robles,3:25,N,"35,431",1.11,-,2019
+96,"Tuesday, Jul 16",HOU,LAA,L,2,7,,59-37,1,up 4.0,Ramirez,Rondón,,3:33,N,"42,678",1.22,--,2019
+97,"Wednesday, Jul 17",HOU,LAA,W,11,2,,60-37,1,up 4.0,Cole,Peña,,2:57,N,"35,738",1.36,+,2019
+98,"Thursday, Jul 18",HOU,LAA,W,6,2,,61-37,1,up 5.0,Miley,Harvey,,2:35,N,"35,928",1.23,++,2019
+99,"Friday, Jul 19",HOU,TEX,W,4,3,,62-37,1,up 5.0,Verlander,Minor,Osuna,2:59,N,"42,287",1.10,+++,2019
+100,"Saturday, Jul 20",HOU,TEX,W,6,1,,63-37,1,up 5.0,Urquidy,Jurado,,2:25,N,"41,643",1.03,++++,2019
+101,"Sunday, Jul 21",HOU,TEX,W,5,3,,64-37,1,up 6.0,Armenteros,Lynn,Osuna,3:08,D,"37,655",.95,+++++,2019
+102,"Monday, Jul 22",HOU,OAK,W,11,1,,65-37,1,up 7.0,Cole,Bailey,,2:56,N,"41,534",1.25,++++++,2019
+103,"Tuesday, Jul 23",HOU,OAK,L,3,4,11,65-38,1,up 6.0,Petit,McHugh,,3:14,N,"39,204",1.06,-,2019
+104,"Wednesday, Jul 24",HOU,OAK,W,4,2,,66-38,1,up 7.0,Verlander,Bassitt,Osuna,2:42,D,"41,838",1.26,+,2019
+105,"Friday, Jul 26",HOU,STL,L,3,5,,66-39,1,up 7.5,Miller,Pressly,Martinez,3:09,N,"44,724",.68,-,2019
+106,"Saturday, Jul 27",HOU,STL,W,8,2,,67-39,1,up 7.5,Cole,Ponce de Leon,,3:07,N,"46,518",.71,+,2019
+107,"Sunday, Jul 28",HOU,STL,W,6,2,,68-39,1,up 7.5,Miley,Hudson,,3:24,D,"46,714",.61,++,2019
+108,"Tuesday, Jul 30",HOU,CLE,W,2,0,,69-39,1,up 7.5,Verlander,Bieber,Osuna,2:44,N,"21,589",.62,+++,2019
+109,"Wednesday, Jul 31",HOU,CLE,L,4,10,,69-40,1,up 7.5,Plesac,Urquidy,,3:10,N,"23,961",.55,-,2019
+110,"Thursday, Aug 1",HOU,CLE,W,7,1,,70-40,1,up 7.5,Cole,Salazar,,3:10,N,"21,536",.63,+,2019
+111,"Friday, Aug 2",HOU,SEA,W,10,2,,71-40,1,up 8.0,Miley,Kikuchi,,2:57,N,"41,444",.52,++,2019
+112,"Saturday, Aug 3",HOU,SEA,W,9,0,,72-40,1,up 8.0,Sanchez,Gonzales,,3:02,N,"37,059",.48,+++,2019
+113,"Sunday, Aug 4",HOU,SEA,W,3,1,,73-40,1,up 8.0,Verlander,Milone,Osuna,2:56,D,"39,667",.42,++++,2019
+114,"Tuesday, Aug 6",HOU,COL,W,11,6,,74-40,1,up 8.5,Greinke,González,,3:09,N,"43,243",.43,+++++,2019
+115,"Wednesday, Aug 7",HOU,COL,W,14,3,,75-40,1,up 9.5,Cole,Lambert,,3:05,D,"35,566",.42,++++++,2019
+116,"Friday, Aug 9",HOU,BAL,W,3,2,,76-40,1,up 9.5,Miley,Bundy,Osuna,2:58,N,"19,407",.29,+++++++,2019
+117,"Saturday, Aug 10",HOU,BAL,W,23,2,,77-40,1,up10.5,Sanchez,Brooks,,3:03,N,"21,903",.30,++++++++,2019
+118,"Sunday, Aug 11",HOU,BAL,L-wo,7,8,,77-41,1,up 9.5,Bleier,Osuna,,3:51,D,"17,979",.21,-,2019
+119,"Tuesday, Aug 13(1)",HOU,CHW,W,6,2,,78-41,1,up10.0,Greinke,Cease,,3:17,D,,.27,+,2019
+120,"Tuesday, Aug 13(2)",HOU,CHW,L,1,4,,78-42,1,up10.0,Nova,Devenski,,2:21,N,"19,559",.23,-,2019
+121,"Wednesday, Aug 14",HOU,CHW,L,9,13,,78-43,1,up 9.0,Colomé,Pressly,,3:30,D,"18,899",.25,--,2019
+122,"Thursday, Aug 15",HOU,OAK,L,6,7,,78-44,1,up 8.0,Diekman,Devenski,Hendriks,2:35,N,"15,323",.48,---,2019
+123,"Friday, Aug 16",HOU,OAK,L-wo,2,3,13,78-45,1,up 7.0,Trivino,Sneed,,4:13,N,"22,768",.61,----,2019
+124,"Saturday, Aug 17",HOU,OAK,L,4,8,,78-46,1,up 6.0,Bassitt,Armenteros,,3:04,D,"21,428",.74,-----,2019
+125,"Sunday, Aug 18",HOU,OAK,W,4,1,,79-46,1,up 7.0,Greinke,Anderson,Osuna,2:50,D,"22,372",.96,+,2019
+126,"Monday, Aug 19",HOU,DET,W,5,4,,80-46,1,up 7.5,Miley,Jackson,Osuna,3:13,N,"40,499",.46,++,2019
+127,"Tuesday, Aug 20",HOU,DET,W,6,3,,81-46,1,up 7.5,Peacock,Turnbull,Osuna,3:03,N,"30,143",.40,+++,2019
+128,"Wednesday, Aug 21",HOU,DET,L,1,2,,81-47,1,up 6.5,Farmer,Verlander,Jiménez,2:12,N,"29,567",.39,-,2019
+129,"Thursday, Aug 22",HOU,DET,W,6,3,,82-47,1,up 6.5,Cole,Zimmermann,Osuna,2:50,N,"27,220",.48,+,2019
+130,"Friday, Aug 23",HOU,LAA,W,5,4,,83-47,1,up 7.0,Greinke,Suarez,Osuna,3:07,N,"35,201",.43,++,2019
+131,"Saturday, Aug 24",HOU,LAA,W,5,2,,84-47,1,up 8.0,Miley,Peters,Harris,3:03,N,"37,862",.39,+++,2019
+132,"Sunday, Aug 25",HOU,LAA,W,11,2,,85-47,1,up 9.0,Valdez,Barria,,2:59,D,"38,989",.33,++++,2019
+133,"Tuesday, Aug 27",HOU,TBR,W,15,1,,86-47,1,up 8.5,Verlander,Morton,,3:10,N,"28,454",.23,+++++,2019
+134,"Wednesday, Aug 28",HOU,TBR,W,8,6,,87-47,1,up 9.5,Harris,Castillo,,3:09,N,"25,539",.25,++++++,2019
+135,"Thursday, Aug 29",HOU,TBR,L,8,9,,87-48,1,up 8.5,De León,Devenski,Pagán,4:06,D,"33,051",.19,-,2019
+136,"Friday, Aug 30",HOU,TOR,W,7,4,,88-48,1,up 8.5,McHugh,Thornton,,3:22,N,"25,289",.25,+,2019
+137,"Saturday, Aug 31",HOU,TOR,L,4,6,,88-49,1,up 8.5,Buchholz,Valdez,Giles,3:04,D,"26,414",.22,-,2019
+138,"Sunday, Sep 1",HOU,TOR,W,2,0,,89-49,1,up 9.5,Verlander,Giles,,2:29,D,"24,104",.24,+,2019
+139,"Monday, Sep 2",HOU,MIL,W,3,2,10,90-49,1,up10.0,Osuna,Guerra,James,3:35,D,"39,046",.17,++,2019
+140,"Tuesday, Sep 3",HOU,MIL,L,2,4,,90-50,1,up 9.0,Lyles,Greinke,Hader,2:41,N,"29,335",.15,-,2019
+141,"Thursday, Sep 5",HOU,SEA,W-wo,11,9,13,91-50,1,up 8.5,James,Wisler,,4:40,N,"27,822",.23,+,2019
+142,"Friday, Sep 6",HOU,SEA,W,7,4,,92-50,1,up 9.5,Smith,Milone,Osuna,3:31,N,"33,149",.21,++,2019
+143,"Saturday, Sep 7",HOU,SEA,W,2,1,,93-50,1,up 9.5,Verlander,Adams,Harris,2:56,N,"41,958",.17,+++,2019
+144,"Sunday, Sep 8",HOU,SEA,W,21,1,,94-50,1,up 9.5,Cole,Hernández,,2:50,D,"35,569",.17,++++,2019
+145,"Monday, Sep 9",HOU,OAK,W,15,0,,95-50,1,up10.5,Greinke,Fiers,,2:42,N,"38,289",.14,+++++,2019
+146,"Tuesday, Sep 10",HOU,OAK,L,7,21,,95-51,1,up 9.5,Roark,Miley,Mengden,3:20,N,"32,100",.10,-,2019
+147,"Wednesday, Sep 11",HOU,OAK,L,3,5,,95-52,1,up 8.5,Anderson,James,Hendriks,2:57,N,"32,938",.11,--,2019
+148,"Thursday, Sep 12",HOU,OAK,L,2,3,,95-53,1,up 7.5,Bailey,Verlander,Hendriks,3:39,N,"34,024",.18,---,2019
+149,"Friday, Sep 13",HOU,KCR,W,4,1,,96-53,1,up 7.5,Cole,Fillmyer,Osuna,2:58,N,"20,593",.16,+,2019
+150,"Saturday, Sep 14",HOU,KCR,W,6,1,,97-53,1,up 7.5,Greinke,Montgomery,,3:17,N,"20,716",.17,++,2019
+151,"Sunday, Sep 15",HOU,KCR,W,12,3,,98-53,1,up 7.5,Miley,Junis,,3:17,D,"17,205",.16,+++,2019
+152,"Tuesday, Sep 17",HOU,TEX,W,4,1,,99-53,1,up 8.0,Verlander,Lynn,Osuna,2:45,N,"39,650",.12,++++,2019
+153,"Wednesday, Sep 18",HOU,TEX,W,3,2,,100-53,1,up 8.0,Cole,Allard,Osuna,2:35,N,"38,417",.18,+++++,2019
+154,"Friday, Sep 20",HOU,LAA,W,6,4,,101-53,1,up 8.0,Greinke,Barria,Osuna,2:49,N,"40,106",.08,++++++,2019
+155,"Saturday, Sep 21",HOU,LAA,L,4,8,,101-54,1,up 7.0,Bard,Miley,,3:23,N,"43,264",.07,-,2019
+156,"Sunday, Sep 22",HOU,LAA,W,13,5,,102-54,1,up 8.0,Verlander,Rodríguez,,3:32,D,"43,169",.15,+,2019
+157,"Tuesday, Sep 24",HOU,SEA,W,3,0,,103-54,1,up 9.0,Cole,Milone,Osuna,2:51,N,"11,259",.14,++,2019
+158,"Wednesday, Sep 25",HOU,SEA,W,3,0,,104-54,1,up 9.0,Greinke,Kikuchi,Harris,2:33,N,"10,916",.09,+++,2019
+159,"Thursday, Sep 26",HOU,LAA,L-wo,3,4,12,104-55,1,up 8.0,Cahill,Biagini,,4:32,N,"39,658",.04,-,2019
+160,"Friday, Sep 27",HOU,LAA,W,4,0,,105-55,1,up 9.0,Urquidy,Sandoval,,2:37,N,"41,763",.09,+,2019
+161,"Saturday, Sep 28",HOU,LAA,W,6,3,,106-55,1,up 9.0,Verlander,Bard,Osuna,2:55,N,"35,814",.11,++,2019
+162,"Sunday, Sep 29",HOU,LAA,W,8,5,,107-55,1,up10.0,Cole,Peters,Harris,3:30,D,"34,693",.05,+++,2019
+1,"Thursday, Mar 29",HOU,TEX,W,4,1,,1-0,1,Tied,Verlander,Hamels,,2:59,D,"47,253",1.10,+,2018
+2,"Friday, Mar 30",HOU,TEX,L,1,5,,1-1,2,0.5,Fister,Keuchel,,3:02,N,"35,469",1.09,-,2018
+3,"Saturday, Mar 31",HOU,TEX,W,9,3,,2-1,1,Tied,McCullers,Moore,,3:19,D,"36,892",1.07,+,2018
+4,"Sunday, Apr 1",HOU,TEX,W,8,2,,3-1,1,Tied,Cole,Minor,,3:13,D,"26,758",1.14,++,2018
+5,"Monday, Apr 2",HOU,BAL,W,6,1,,4-1,1,up 1.0,Morton,Tillman,,2:52,N,"42,675",1.07,+++,2018
+6,"Tuesday, Apr 3",HOU,BAL,W,10,6,,5-1,1,up 1.0,Rondón,Araújo,,3:19,N,"40,081",1.08,++++,2018
+7,"Wednesday, Apr 4",HOU,BAL,W,3,2,,6-1,1,up 1.0,Peacock,Castro,,2:42,D,"27,698",1.11,+++++,2018
+8,"Friday, Apr 6",HOU,SDP,L,1,4,,6-2,1,Tied,Perdomo,McCullers,Hand,3:11,N,"41,138",1.10,-,2018
+9,"Saturday, Apr 7",HOU,SDP,W-wo,1,0,10,7-2,1,up 1.0,Devenski,Erlin,,3:27,N,"42,306",1.08,+,2018
+10,"Sunday, Apr 8",HOU,SDP,W,4,1,,8-2,1,up 1.0,Morton,Ross,Peacock,2:25,D,"37,093",1.10,++,2018
+11,"Monday, Apr 9",HOU,MIN,W,2,0,,9-2,1,up 1.0,Verlander,Rogers,Giles,3:28,N,"15,521",1.17,+++,2018
+12,"Tuesday, Apr 10",HOU,MIN,L,1,4,,9-3,1,Tied,Odorizzi,Keuchel,Rodney,3:21,N,"15,500",1.15,-,2018
+13,"Wednesday, Apr 11",HOU,MIN,L-wo,8,9,,9-4,2,1.0,Rodney,Peacock,,3:35,D,"15,438",1.14,--,2018
+14,"Friday, Apr 13",HOU,TEX,W,3,2,,10-4,2,1.5,Smith,Jepsen,Devenski,2:50,N,"32,129",1.17,+,2018
+15,"Saturday, Apr 14",HOU,TEX,L,5,6,10,10-5,2,2.5,Kela,Harris,Claudio,3:26,D,"40,679",1.18,-,2018
+16,"Sunday, Apr 15",HOU,TEX,L,1,3,10,10-6,2,3.0,Kela,Rondón,Diekman,3:06,N,"31,803",1.14,--,2018
+17,"Monday, Apr 16",HOU,SEA,L,1,2,,10-7,3,3.5,Paxton,Keuchel,Díaz,2:21,N,"12,923",1.21,---,2018
+18,"Tuesday, Apr 17",HOU,SEA,W,4,1,,11-7,2,2.5,McCullers,Altavilla,Devenski,2:48,N,"15,382",1.19,+,2018
+19,"Wednesday, Apr 18",HOU,SEA,W,7,1,,12-7,2,1.5,Cole,Leake,,2:45,N,"14,643",1.24,++,2018
+20,"Thursday, Apr 19",HOU,SEA,W,9,2,,13-7,2,0.5,Morton,Gonzales,,3:02,D,"16,927",1.29,+++,2018
+21,"Friday, Apr 20",HOU,CHW,W,10,0,,14-7,1,up 0.5,Verlander,Shields,,3:04,N,"14,211",1.17,++++,2018
+22,"Saturday, Apr 21",HOU,CHW,W,10,1,,15-7,1,up 0.5,Keuchel,Giolito,,3:13,N,"23,902",1.20,+++++,2018
+23,"Sunday, Apr 22",HOU,CHW,W,7,1,,16-7,1,up 1.5,McCullers,Bummer,,3:20,D,"17,167",1.16,++++++,2018
+24,"Monday, Apr 23",HOU,LAA,L,0,2,,16-8,1,up 0.5,Skaggs,Cole,Middleton,2:59,N,"29,606",1.52,-,2018
+25,"Tuesday, Apr 24",HOU,LAA,L,7,8,,16-9,2,0.5,Johnson,Smith,Bedrosian,3:48,N,"36,457",1.49,--,2018
+26,"Wednesday, Apr 25",HOU,LAA,W,5,2,,17-9,1,up 0.5,Verlander,Tropeano,Giles,2:44,D,"29,777",1.46,+,2018
+27,"Friday, Apr 27",HOU,OAK,L,1,8,,17-10,1,up 0.5,Manaea,Keuchel,,2:30,N,"32,636",1.40,-,2018
+28,"Saturday, Apr 28",HOU,OAK,W,11,0,,18-10,1,up 1.5,McCullers,Mengden,,3:14,N,"41,493",1.39,+,2018
+29,"Sunday, Apr 29",HOU,OAK,W,8,4,,19-10,1,up 2.0,Harris,Cahill,,2:46,D,"39,131",1.41,++,2018
+30,"Monday, Apr 30",HOU,NYY,W,2,1,,20-10,1,up 2.5,Morton,Gray,Giles,2:31,N,"30,061",1.29,+++,2018
+31,"Tuesday, May 1",HOU,NYY,L,0,4,,20-11,1,up 1.5,Robertson,Giles,,2:57,N,"34,386",1.26,-,2018
+32,"Wednesday, May 2",HOU,NYY,L,0,4,,20-12,1,up 1.0,Severino,Keuchel,,2:31,N,"31,617",1.27,--,2018
+33,"Thursday, May 3",HOU,NYY,L,5,6,,20-13,1,Tied,Shreve,Harris,Chapman,3:11,D,"34,838",1.28,---,2018
+34,"Friday, May 4",HOU,ARI,W,8,0,,21-13,1,Tied,Cole,Medlen,,2:50,N,"29,463",1.14,+,2018
+35,"Saturday, May 5",HOU,ARI,L-wo,3,4,,21-14,1,Tied,Boxberger,Devenski,,3:34,N,"39,154",1.18,-,2018
+36,"Sunday, May 6",HOU,ARI,L,1,3,,21-15,2,1.0,Koch,Verlander,Boxberger,2:55,D,"35,632",1.18,--,2018
+37,"Monday, May 7",HOU,OAK,W,16,2,,22-15,2,0.5,Keuchel,Anderson,,2:57,N,"7,360",1.37,+,2018
+38,"Tuesday, May 8",HOU,OAK,W,4,2,,23-15,1,up 0.5,McCullers,Manaea,Giles,2:46,N,"9,675",1.35,++,2018
+39,"Wednesday, May 9",HOU,OAK,W,4,1,,24-15,1,up 0.5,Cole,Mengden,Giles,2:43,D,"18,044",1.38,+++,2018
+40,"Friday, May 11",HOU,TEX,L,0,1,,24-16,1,Tied,Hamels,Verlander,Kela,3:08,N,"34,297",1.29,-,2018
+41,"Saturday, May 12",HOU,TEX,W,6,1,,25-16,1,up 1.0,Morton,Fister,,2:37,N,"36,482",1.27,+,2018
+42,"Sunday, May 13",HOU,TEX,W,6,1,,26-16,1,up 1.0,Keuchel,Moore,,2:52,D,"39,405",1.30,++,2018
+43,"Monday, May 14",HOU,LAA,L,1,2,,26-17,1,Tied,Heaney,McCullers,Anderson,2:27,N,"28,229",1.61,-,2018
+44,"Tuesday, May 15",HOU,LAA,W,5,3,,27-17,1,up 1.0,McHugh,Alvarez,Giles,3:18,N,"28,358",1.57,+,2018
+45,"Wednesday, May 16",HOU,LAA,W,2,0,,28-17,1,up 2.0,Verlander,Richards,,2:39,N,"28,078",1.59,++,2018
+46,"Friday, May 18",HOU,CLE,W,4,1,,29-17,1,up 3.0,Morton,Clevinger,Giles,2:50,N,"35,959",1.29,+++,2018
+47,"Saturday, May 19",HOU,CLE,L,4,5,,29-18,1,up 2.0,Kluber,Keuchel,Allen,3:09,D,"39,926",1.29,-,2018
+48,"Sunday, May 20",HOU,CLE,W,3,1,,30-18,1,up 2.0,McCullers,Carrasco,Giles,2:48,N,"30,770",1.30,+,2018
+49,"Tuesday, May 22",HOU,SFG,W,11,2,,31-18,1,up 2.0,Cole,Suárez,,3:05,N,"35,638",1.29,++,2018
+50,"Wednesday, May 23",HOU,SFG,W,4,1,,32-18,1,up 2.0,Verlander,Samardzija,Giles,2:56,D,"31,929",1.26,+++,2018
+51,"Thursday, May 24",HOU,CLE,W,8,2,,33-18,1,up 3.0,Morton,Clevinger,,2:56,N,"19,660",1.26,++++,2018
+52,"Friday, May 25",HOU,CLE,W,11,2,,34-18,1,up 3.0,Smith,Miller,,3:41,N,"29,431",1.25,+++++,2018
+53,"Saturday, May 26",HOU,CLE,L,6,8,,34-19,1,up 2.0,Carrasco,McCullers,Allen,3:28,N,"30,639",1.23,-,2018
+54,"Sunday, May 27",HOU,CLE,L-wo,9,10,14,34-20,1,up 1.0,Otero,Peacock,,4:53,D,"27,765",1.26,--,2018
+55,"Monday, May 28",HOU,NYY,W,5,1,,35-20,1,up 1.0,Verlander,Germán,,3:14,D,"46,583",1.33,+,2018
+56,"Tuesday, May 29",HOU,NYY,L-wo,5,6,10,35-21,1,up 1.0,Chapman,Peacock,,3:47,N,"45,458",1.38,-,2018
+57,"Wednesday, May 30",HOU,NYY,L,3,5,,35-22,1,up 1.0,Severino,Keuchel,Chapman,2:47,N,"45,229",1.32,--,2018
+58,"Thursday, May 31",HOU,BOS,W,4,2,,36-22,1,up 1.0,McCullers,Pomeranz,Giles,2:57,N,"30,658",1.36,+,2018
+59,"Friday, Jun 1",HOU,BOS,W,7,3,,37-22,1,up 1.0,Cole,Sale,,2:55,N,"37,244",1.34,++,2018
+60,"Saturday, Jun 2",HOU,BOS,L,4,5,,37-23,1,Tied,Price,Harris,Kimbrel,3:41,N,"38,640",1.34,-,2018
+61,"Sunday, Jun 3",HOU,BOS,L,3,9,,37-24,2,1.0,Porcello,Morton,,3:25,N,"33,431",1.33,--,2018
+62,"Tuesday, Jun 5",HOU,SEA,L,1,7,,37-25,2,2.0,Paxton,Keuchel,,2:29,N,"35,646",1.76,---,2018
+63,"Wednesday, Jun 6",HOU,SEA,W,7,5,,38-25,2,1.0,Devenski,Nicasio,Rondón,3:14,N,"30,361",1.75,+,2018
+64,"Thursday, Jun 7",HOU,TEX,W,5,2,,39-25,2,1.0,Cole,Hamels,,2:36,N,"30,236",1.31,++,2018
+65,"Friday, Jun 8",HOU,TEX,W,7,3,,40-25,2,1.0,Verlander,Fister,,3:02,N,"31,722",1.29,+++,2018
+66,"Saturday, Jun 9",HOU,TEX,W,4,3,,41-25,1,Tied,Sipp,Leclerc,Rondón,3:31,N,"38,068",1.28,++++,2018
+67,"Sunday, Jun 10",HOU,TEX,W,8,7,,42-25,1,Tied,Harris,Kela,Rondón,3:09,D,"30,251",1.28,+++++,2018
+68,"Tuesday, Jun 12",HOU,OAK,W,6,3,,43-25,2,0.5,McCullers,Mengden,Giles,2:57,N,"11,742",1.42,++++++,2018
+69,"Wednesday, Jun 13",HOU,OAK,W,13,5,,44-25,2,0.5,Cole,Blackburn,,3:04,N,"9,164",1.35,+++++++,2018
+70,"Thursday, Jun 14",HOU,OAK,W,7,3,,45-25,1,up 0.5,Verlander,Montas,,2:45,D,"13,009",1.30,++++++++,2018
+71,"Friday, Jun 15",HOU,KCR,W,7,3,,46-25,1,up 0.5,Morton,Junis,,2:49,N,"27,603",1.14,+++++++++,2018
+72,"Saturday, Jun 16",HOU,KCR,W,10,2,,47-25,1,up 0.5,Keuchel,Duffy,,2:46,D,"20,657",1.11,++++++++++,2018
+73,"Sunday, Jun 17",HOU,KCR,W,7,4,,48-25,1,up 1.5,Sipp,Maurer,Rondón,2:46,D,"22,326",1.06,+++++++++++,2018
+74,"Monday, Jun 18",HOU,TBR,W-wo,5,4,,49-25,1,up 2.0,McHugh,Romo,,2:57,N,"34,151",1.04,++++++++++++,2018
+75,"Tuesday, Jun 19",HOU,TBR,L,1,2,,49-26,1,up 2.0,Snell,Rondón,Romo,3:19,N,"37,414",.98,-,2018
+76,"Wednesday, Jun 20",HOU,TBR,W,5,1,,50-26,1,up 3.0,Morton,Eovaldi,,2:32,N,"43,409",1.06,+,2018
+77,"Friday, Jun 22",HOU,KCR,L,0,1,,50-27,1,up 3.5,Grimm,Giles,Hill,3:09,N,"39,357",1.04,-,2018
+78,"Saturday, Jun 23",HOU,KCR,W-wo,4,3,12,51-27,1,up 3.5,McHugh,Grimm,,3:55,N,"40,028",1.03,+,2018
+79,"Sunday, Jun 24",HOU,KCR,W,11,3,,52-27,1,up 4.5,Cole,Hammel,,3:04,D,"41,823",1.02,++,2018
+80,"Monday, Jun 25",HOU,TOR,L,3,6,,52-28,1,up 3.5,Happ,Verlander,Oh,3:10,N,"28,791",.91,-,2018
+81,"Tuesday, Jun 26",HOU,TOR,W,7,0,,53-28,1,up 3.5,Morton,Borucki,,2:42,N,"38,700",1.04,+,2018
+82,"Wednesday, Jun 27",HOU,TOR,W-wo,7,6,,54-28,1,up 3.5,Harris,Tepera,,2:55,D,"39,191",.96,++,2018
+83,"Thursday, Jun 28",HOU,TBR,W,1,0,,55-28,1,up 3.5,McCullers,Yarbrough,Rondón,2:53,N,"12,305",.99,+++,2018
+84,"Friday, Jun 29",HOU,TBR,L,2,3,,55-29,1,up 2.5,Font,Cole,Alvarado,2:35,N,"15,797",.91,-,2018
+85,"Saturday, Jun 30",HOU,TBR,L,2,5,,55-30,1,up 1.5,Nuño,Verlander,Romo,2:39,D,"18,378",1.02,--,2018
+86,"Sunday, Jul 1",HOU,TBR,L,2,3,,55-31,1,up 0.5,Snell,Morton,Romo,2:36,D,"19,334",1.15,---,2018
+87,"Tuesday, Jul 3",HOU,TEX,W,5,3,,56-31,1,up 0.5,Keuchel,Bibens-Dirkx,Rondón,3:27,N,"40,165",1.10,+,2018
+88,"Wednesday, Jul 4",HOU,TEX,W,5,4,10,57-31,1,up 1.5,McHugh,Martin,Giles,3:33,N,"43,592",1.10,++,2018
+89,"Thursday, Jul 5",HOU,CHW,W-wo,4,3,,58-31,1,up 1.5,Smith,Soria,,3:05,N,"34,955",1.06,+++,2018
+90,"Friday, Jul 6",HOU,CHW,W,11,4,,59-31,1,up 2.5,McCullers,López,Peacock,2:55,N,"38,153",1.02,++++,2018
+91,"Saturday, Jul 7",HOU,CHW,W,12,6,,60-31,1,up 3.5,Morton,Shields,,3:19,D,"39,568",.94,+++++,2018
+92,"Sunday, Jul 8",HOU,CHW,W,2,1,,61-31,1,up 3.5,Keuchel,Giolito,Rondón,2:28,D,"41,654",.89,++++++,2018
+93,"Monday, Jul 9",HOU,OAK,L,0,2,,61-32,1,up 3.0,Montas,Peacock,Treinen,2:56,N,"28,301",1.07,-,2018
+94,"Tuesday, Jul 10",HOU,OAK,W-wo,6,5,11,62-32,1,up 4.0,McHugh,Treinen,,4:03,N,"34,585",1.19,+,2018
+95,"Wednesday, Jul 11",HOU,OAK,L,3,8,,62-33,1,up 3.0,Bassitt,McCullers,,3:13,N,"41,119",1.07,-,2018
+96,"Thursday, Jul 12",HOU,OAK,L,4,6,,62-34,1,up 3.0,Petit,Devenski,Trivino,3:21,D,"38,900",1.22,--,2018
+97,"Friday, Jul 13",HOU,DET,W,3,0,,63-34,1,up 4.0,Keuchel,Fiers,Rondón,2:44,N,"38,843",1.10,+,2018
+98,"Saturday, Jul 14",HOU,DET,W,9,1,,64-34,1,up 5.0,Cole,Fulmer,,2:42,D,"40,405",.97,++,2018
+99,"Sunday, Jul 15",HOU,DET,L,3,6,,64-35,1,up 5.0,VerHagen,Verlander,,2:28,D,"39,455",.92,-,2018
+100,"Friday, Jul 20",HOU,LAA,W,3,1,,65-35,1,up 5.0,Keuchel,Skaggs,Rondón,2:47,N,"42,422",1.01,+,2018
+101,"Saturday, Jul 21",HOU,LAA,W,7,0,,66-35,1,up 6.0,Verlander,Tropeano,,3:20,D,"44,264",.89,++,2018
+102,"Sunday, Jul 22",HOU,LAA,L,5,14,,66-36,1,up 5.0,Heaney,McCullers,,3:41,D,"35,298",.82,-,2018
+103,"Tuesday, Jul 24",HOU,COL,W,8,2,10,67-36,1,up 6.0,Rondón,Davis,,3:12,N,"43,184",.93,+,2018
+104,"Wednesday, Jul 25",HOU,COL,L-wo,2,3,,67-37,1,up 5.0,Davis,McHugh,,2:56,N,"40,948",.86,-,2018
+105,"Friday, Jul 27",HOU,TEX,L,2,11,,67-38,1,up 5.0,Gallardo,Keuchel,,3:23,N,"42,592",1.06,--,2018
+106,"Saturday, Jul 28",HOU,TEX,L,3,7,,67-39,1,up 5.0,Jurado,Verlander,,2:44,N,"43,093",1.06,---,2018
+107,"Sunday, Jul 29",HOU,TEX,L,3,4,,67-40,1,up 4.0,Minor,McCullers,Kela,3:01,D,"40,560",1.12,----,2018
+108,"Monday, Jul 30",HOU,SEA,L,0,2,,67-41,1,up 3.0,Paxton,Cole,Díaz,2:19,N,"35,198",1.78,-----,2018
+109,"Tuesday, Jul 31",HOU,SEA,W,5,2,,68-41,1,up 4.0,Morton,Leake,Rondón,3:09,N,"28,478",1.93,+,2018
+110,"Wednesday, Aug 1",HOU,SEA,W,8,3,,69-41,1,up 5.0,Keuchel,LeBlanc,,3:02,D,"34,575",1.82,++,2018
+111,"Friday, Aug 3",HOU,LAD,W,2,1,,70-41,1,up 5.0,Verlander,Wood,Rondón,2:59,N,"53,598",1.10,+++,2018
+112,"Saturday, Aug 4",HOU,LAD,W,14,0,,71-41,1,up 5.0,Peacock,Maeda,,3:37,N,"53,119",1.00,++++,2018
+113,"Sunday, Aug 5",HOU,LAD,L,2,3,,71-42,1,up 4.0,Buehler,Cole,Jansen,2:54,D,"50,628",.91,-,2018
+114,"Monday, Aug 6",HOU,SFG,W,3,1,,72-42,1,up 4.5,Osuna,Smith,Rondón,2:26,N,"40,251",1.05,+,2018
+115,"Tuesday, Aug 7",HOU,SFG,W,2,1,,73-42,1,up 5.5,Smith,Black,Rondón,3:02,D,"41,613",.98,++,2018
+116,"Thursday, Aug 9",HOU,SEA,L,6,8,,73-43,1,up 4.5,Paxton,Verlander,Díaz,3:36,N,"34,976",1.10,-,2018
+117,"Friday, Aug 10",HOU,SEA,L,2,5,,73-44,1,up 4.5,Warren,Cole,Díaz,2:48,N,"41,236",1.31,--,2018
+118,"Saturday, Aug 11",HOU,SEA,L,2,3,,73-45,1,up 3.5,LeBlanc,Morton,Díaz,2:56,N,"38,888",1.52,---,2018
+119,"Sunday, Aug 12",HOU,SEA,L,3,4,10,73-46,1,up 2.5,Duke,Osuna,Díaz,3:10,D,"40,048",1.83,----,2018
+120,"Tuesday, Aug 14",HOU,COL,L,1,5,,73-47,1,up 1.0,Márquez,Verlander,,3:08,N,"35,813",1.49,-----,2018
+121,"Wednesday, Aug 15",HOU,COL,W,12,1,,74-47,1,up 2.0,Cole,Anderson,,2:43,N,"29,967",1.52,+,2018
+122,"Friday, Aug 17",HOU,OAK,L-wo,3,4,10,74-48,1,up 1.0,Treinen,Sipp,,3:33,N,"23,535",2.36,-,2018
+123,"Saturday, Aug 18",HOU,OAK,L,1,7,,74-49,1,Tied,Cahill,Keuchel,,2:33,D,"32,204",2.49,--,2018
+124,"Sunday, Aug 19",HOU,OAK,W,9,4,,75-49,1,up 1.0,Verlander,Manaea,,3:07,D,"29,143",2.64,+,2018
+125,"Monday, Aug 20",HOU,SEA,L,4,7,,75-50,1,Tied,Colomé,McHugh,Díaz,3:05,N,"27,072",2.16,-,2018
+126,"Tuesday, Aug 21",HOU,SEA,W,3,2,,76-50,1,Tied,Valdez,Detwiler,Rondón,2:56,N,"25,415",2.31,+,2018
+127,"Wednesday, Aug 22",HOU,SEA,W,10,7,,77-50,1,up 1.0,Morton,Gonzales,Osuna,3:13,D,"31,062",2.13,++,2018
+128,"Friday, Aug 24",HOU,LAA,W,9,3,,78-50,1,up 1.5,Keuchel,Heaney,,3:04,N,"42,788",1.48,+++,2018
+129,"Saturday, Aug 25",HOU,LAA,W,8,3,,79-50,1,up 1.5,Verlander,Barria,,3:26,N,"41,654",1.46,++++,2018
+130,"Sunday, Aug 26",HOU,LAA,W,3,1,,80-50,1,up 1.5,Valdez,Peña,Osuna,2:54,D,"37,530",1.45,+++++,2018
+131,"Monday, Aug 27",HOU,OAK,W,11,4,,81-50,1,up 2.5,Cole,Anderson,,3:16,N,"43,171",2.41,++++++,2018
+132,"Tuesday, Aug 28",HOU,OAK,L,3,4,,81-51,1,up 1.5,Familia,Osuna,Treinen,3:21,N,"33,136",2.20,-,2018
+133,"Wednesday, Aug 29",HOU,OAK,W-wo,5,4,,82-51,1,up 2.5,Osuna,Familia,,3:27,D,"32,926",2.59,+,2018
+134,"Thursday, Aug 30",HOU,LAA,L,2,5,,82-52,1,up 2.5,Heaney,Verlander,,3:20,N,"30,371",1.24,-,2018
+135,"Friday, Aug 31",HOU,LAA,L,0,3,,82-53,1,up 1.5,Barria,Valdez,Parker,3:18,N,"35,675",1.30,--,2018
+136,"Saturday, Sep 1",HOU,LAA,W,7,3,,83-53,1,up 2.5,Smith,Bedrosian,,3:16,N,"41,622",1.57,+,2018
+137,"Sunday, Sep 2",HOU,LAA,W,4,2,,84-53,1,up 2.5,Cole,Ohtani,Osuna,3:40,N,"41,506",1.35,++,2018
+138,"Monday, Sep 3",HOU,MIN,W,4,1,,85-53,1,up 2.5,Keuchel,Gibson,Peacock,2:59,D,"39,559",1.24,+++,2018
+139,"Tuesday, Sep 4",HOU,MIN,W,5,2,,86-53,1,up 3.5,Verlander,May,Osuna,2:58,N,"31,315",1.21,++++,2018
+140,"Wednesday, Sep 5",HOU,MIN,W,9,1,,87-53,1,up 3.5,Valdez,Odorizzi,,3:21,N,"31,011",.94,+++++,2018
+141,"Friday, Sep 7",HOU,BOS,W,6,3,,88-53,1,up 3.5,Pressly,Kelly,Osuna,3:38,N,"36,930",.92,++++++,2018
+142,"Saturday, Sep 8",HOU,BOS,W,5,3,,89-53,1,up 3.5,Morton,Rodriguez,Osuna,3:25,D,"36,684",.84,+++++++,2018
+143,"Sunday, Sep 9",HOU,BOS,L-wo,5,6,,89-54,1,up 2.5,Kimbrel,Rondón,,3:35,N,"32,787",.85,-,2018
+144,"Monday, Sep 10",HOU,DET,W,3,2,,90-54,1,up 3.0,Verlander,Liriano,Osuna,2:42,N,"19,711",1.12,+,2018
+145,"Tuesday, Sep 11",HOU,DET,W,5,4,,91-54,1,up 3.0,Harris,Zimmermann,Osuna,3:29,N,"19,432",.92,++,2018
+146,"Wednesday, Sep 12",HOU,DET,W,5,4,,92-54,1,up 3.0,Cole,Norris,Pressly,3:09,D,"22,666",.92,+++,2018
+147,"Friday, Sep 14",HOU,ARI,L,2,4,,92-55,1,up 2.5,Ziegler,Rondón,Hirano,3:36,N,"36,924",.75,-,2018
+148,"Saturday, Sep 15",HOU,ARI,W,10,4,,93-55,1,up 3.5,Morton,Godley,,3:17,N,"38,345",1.15,+,2018
+149,"Sunday, Sep 16",HOU,ARI,W,5,4,,94-55,1,up 4.5,Verlander,Greinke,Osuna,3:09,D,"37,889",.76,++,2018
+150,"Monday, Sep 17",HOU,SEA,L,1,4,,94-56,1,up 4.0,Cook,Rondón,Díaz,3:02,N,"43,144",.41,-,2018
+151,"Tuesday, Sep 18",HOU,SEA,W,7,0,,95-56,1,up 5.0,James,Leake,,2:55,N,"35,715",.56,+,2018
+152,"Wednesday, Sep 19",HOU,SEA,L,0,9,,95-57,1,up 4.0,Lawrence,Keuchel,,2:47,N,"31,229",.24,-,2018
+153,"Friday, Sep 21",HOU,LAA,W,11,3,,96-57,1,up 3.5,Cole,Heaney,,2:56,N,"39,977",.63,+,2018
+154,"Saturday, Sep 22",HOU,LAA,W,10,5,,97-57,1,up 3.5,McHugh,Buttrey,,4:04,N,"41,822",.59,++,2018
+155,"Sunday, Sep 23",HOU,LAA,W,6,2,,98-57,1,up 4.5,Valdez,Skaggs,,3:11,D,"43,247",.54,+++,2018
+156,"Monday, Sep 24",HOU,TOR,W,5,3,,99-57,1,up 4.5,Keuchel,Estrada,Osuna,3:12,N,"23,463",.11,++++,2018
+157,"Tuesday, Sep 25",HOU,TOR,W,4,1,,100-57,1,up 5.5,James,Gaviglio,Osuna,3:00,N,"28,440",.07,+++++,2018
+158,"Wednesday, Sep 26",HOU,TOR,L,1,3,,100-58,1,up 4.5,Biagini,Devenski,Giles,2:27,D,"22,828",.00,-,2018
+159,"Friday, Sep 28",HOU,BAL,W,2,1,,101-58,1,up 5.5,Sipp,Scott,Osuna,2:39,N,"18,434",.00,+,2018
+160,"Saturday, Sep 29(1)",HOU,BAL,W,4,3,,102-58,1,up 6.0,Harris,Gilmartin,Rondón,2:58,D,,.00,++,2018
+161,"Saturday, Sep 29(2)",HOU,BAL,W,5,2,,103-58,1,up 6.0,Peacock,Ramírez,Pressly,2:53,N,"26,020",.00,+++,2018
+162,"Sunday, Sep 30",HOU,BAL,L,0,4,,103-59,1,up 6.0,Fry,Peacock,,2:23,D,"24,916",.00,-,2018
+1,"Monday, Apr 3",HOU,SEA,W,3,0,,1-0,1,Tied,Keuchel,Hernández,Giles,2:29,N,"41,678",1.07,+,2017
+2,"Tuesday, Apr 4",HOU,SEA,W,2,1,,2-0,1,up 1.0,McCullers,Iwakuma,Giles,2:41,N,"21,406",1.12,++,2017
+3,"Wednesday, Apr 5",HOU,SEA,W-wo,5,3,13,3-0,1,up 1.0,Peacock,De Jong,,4:25,N,"20,303",1.17,+++,2017
+4,"Thursday, Apr 6",HOU,SEA,L,2,4,,3-1,1,up 1.0,Altavilla,Giles,Díaz,2:57,N,"18,362",1.22,-,2017
+5,"Friday, Apr 7",HOU,KCR,L,1,5,,3-2,1,Tied,Vargas,Fiers,,3:12,N,"30,491",1.02,--,2017
+6,"Saturday, Apr 8",HOU,KCR,L,3,7,,3-3,2,1.0,Duffy,Gregerson,,2:42,N,"35,373",1.05,---,2017
+7,"Sunday, Apr 9",HOU,KCR,W-wo,5,4,12,4-3,2,1.0,Devenski,Strahm,,3:49,D,"32,411",.95,+,2017
+8,"Monday, Apr 10",HOU,SEA,L,0,6,,4-4,2,1.5,Paxton,Morton,,2:56,D,"44,856",1.10,-,2017
+9,"Tuesday, Apr 11",HOU,SEA,W,7,5,,5-4,2,1.5,Musgrove,Miranda,,3:29,N,"18,527",1.04,+,2017
+10,"Wednesday, Apr 12",HOU,SEA,W,10,5,,6-4,2,0.5,Peacock,Altavilla,,3:12,N,"14,479",1.11,++,2017
+11,"Friday, Apr 14",HOU,OAK,W,7,2,,7-4,1,up 1.0,Keuchel,Madson,,3:07,N,"15,385",1.23,+++,2017
+12,"Saturday, Apr 15",HOU,OAK,W,10,6,,8-4,1,up 2.0,Harris,Casilla,,3:55,D,"20,140",1.30,++++,2017
+13,"Monday, Apr 17",HOU,LAA,W,3,0,,9-4,1,up 3.5,Morton,Chavez,Giles,2:36,N,"23,501",1.34,+++++,2017
+14,"Tuesday, Apr 18",HOU,LAA,L,2,5,,9-5,1,up 2.5,Nolasco,Musgrove,Bedrosian,3:05,N,"21,760",1.34,-,2017
+15,"Wednesday, Apr 19",HOU,LAA,W,5,1,,10-5,1,up 3.0,Keuchel,Ramírez,,2:47,N,"24,028",1.31,+,2017
+16,"Thursday, Apr 20",HOU,LAA,W,2,1,,11-5,1,up 3.0,McCullers,Shoemaker,Devenski,2:37,D,"23,173",1.37,++,2017
+17,"Friday, Apr 21",HOU,TBR,W,6,3,,12-5,1,up 3.0,Feliz,Cobb,Giles,3:16,N,"17,683",1.24,+++,2017
+18,"Saturday, Apr 22",HOU,TBR,L,3,6,,12-6,1,up 2.0,Pruitt,Morton,Colomé,3:05,N,"17,008",1.21,-,2017
+19,"Sunday, Apr 23",HOU,TBR,W,6,4,10,13-6,1,up 3.0,Gregerson,Garton,Giles,3:39,D,"15,548",1.20,+,2017
+20,"Tuesday, Apr 25",HOU,CLE,W,4,2,,14-6,1,up 4.0,Keuchel,Tomlin,,2:46,N,"14,581",1.23,++,2017
+21,"Wednesday, Apr 26",HOU,CLE,L,6,7,,14-7,1,up 4.0,Bauer,McCullers,Allen,3:12,N,"16,052",1.25,-,2017
+22,"Thursday, Apr 27",HOU,CLE,L,3,4,,14-8,1,up 3.0,Kluber,Devenski,Allen,2:50,N,"14,452",1.28,--,2017
+23,"Friday, Apr 28",HOU,OAK,W,9,4,,15-8,1,up 3.0,Morton,Cotton,,2:58,N,"28,472",1.38,+,2017
+24,"Saturday, Apr 29",HOU,OAK,L,1,2,,15-9,1,up 3.0,Triggs,Musgrove,Casilla,2:49,N,"32,147",1.39,-,2017
+25,"Sunday, Apr 30",HOU,OAK,W,7,2,,16-9,1,up 3.0,Keuchel,Hahn,Giles,2:58,D,"34,880",1.41,+,2017
+26,"Monday, May 1",HOU,TEX,W,6,2,,17-9,1,up 3.5,Devenski,Cashner,Giles,2:59,N,"22,556",1.41,++,2017
+27,"Tuesday, May 2",HOU,TEX,W,8,7,,18-9,1,up 3.5,Hoyt,Kela,Harris,3:13,N,"26,208",1.38,+++,2017
+28,"Wednesday, May 3",HOU,TEX,W,10,1,,19-9,1,up 4.5,Morton,Martinez,,3:01,N,"27,439",1.37,++++,2017
+29,"Thursday, May 4",HOU,TEX,L,4,10,,19-10,1,up 4.5,Griffin,Musgrove,,3:52,D,"27,391",1.36,-,2017
+30,"Friday, May 5",HOU,LAA,W,7,6,10,20-10,1,up 5.5,Giles,Norris,Devenski,3:05,N,"34,556",1.52,+,2017
+31,"Saturday, May 6",HOU,LAA,L-wo,1,2,,20-11,1,up 4.5,Norris,Devenski,,2:47,N,"41,097",1.52,-,2017
+32,"Sunday, May 7",HOU,LAA,W,5,3,,21-11,1,up 5.5,Fiers,Shoemaker,Giles,3:00,D,"38,385",1.52,+,2017
+33,"Tuesday, May 9",HOU,ATL,W,8,3,,22-11,1,up 6.0,Morton,Colon,,2:41,N,"28,724",1.26,++,2017
+34,"Wednesday, May 10",HOU,ATL,W,4,2,,23-11,1,up 6.0,Musgrove,García,Giles,2:49,D,"23,676",1.26,+++,2017
+35,"Thursday, May 11",HOU,NYY,W,3,2,,24-11,1,up 7.0,Keuchel,Pineda,Giles,3:09,N,"39,050",1.26,++++,2017
+36,"Friday, May 12",HOU,NYY,W,5,1,,25-11,1,up 8.0,McCullers,Montgomery,,3:09,N,"41,150",1.23,+++++,2017
+37,"Sunday, May 14(1)",HOU,NYY,L,6,11,,25-12,1,up 7.5,Warren,Harris,,3:20,D,"41,150",1.22,-,2017
+38,"Sunday, May 14(2)",HOU,NYY,W,10,7,,26-12,1,up 7.5,Morton,Tanaka,,3:49,N,"47,883",1.22,+,2017
+39,"Monday, May 15",HOU,MIA,W,7,2,,27-12,1,up 8.0,Musgrove,Tazawa,,2:57,N,"16,448",1.18,++,2017
+40,"Tuesday, May 16",HOU,MIA,W,12,2,,28-12,1,up 8.0,Keuchel,Koehler,,3:00,N,"18,056",1.12,+++,2017
+41,"Wednesday, May 17",HOU,MIA,W,3,0,,29-12,1,up 8.0,McCullers,Ureña,Giles,2:52,D,"24,699",1.08,++++,2017
+42,"Friday, May 19",HOU,CLE,L,3,5,,29-13,1,up 6.5,Bauer,Morton,Allen,3:02,N,"36,446",1.12,-,2017
+43,"Saturday, May 20",HOU,CLE,L,0,3,,29-14,1,up 6.5,Clevinger,Fiers,Allen,2:35,D,"34,698",1.15,--,2017
+44,"Sunday, May 21",HOU,CLE,L,6,8,,29-15,1,up 5.5,Salazar,Musgrove,,3:06,D,"33,476",1.17,---,2017
+45,"Monday, May 22",HOU,DET,W,1,0,,30-15,1,up 6.0,Devenski,Fulmer,Giles,2:45,N,"22,146",1.28,+,2017
+46,"Tuesday, May 23",HOU,DET,W,6,2,,31-15,1,up 7.0,McCullers,Zimmermann,,3:01,N,"23,179",1.21,++,2017
+47,"Wednesday, May 24",HOU,DET,L,3,6,,31-16,1,up 7.0,Greene,Devenski,,2:52,N,"26,481",1.13,-,2017
+48,"Thursday, May 25",HOU,DET,W,7,6,,32-16,1,up 8.0,Gregerson,Wilson,Giles,3:30,N,"25,046",1.17,+,2017
+49,"Friday, May 26",HOU,BAL,W,2,0,,33-16,1,up 9.0,Musgrove,Gausman,Giles,2:31,N,"31,380",1.14,++,2017
+50,"Saturday, May 27",HOU,BAL,W,5,2,,34-16,1,up 9.0,Keuchel,Miley,Harris,2:56,N,"32,761",1.09,+++,2017
+51,"Sunday, May 28",HOU,BAL,W,8,4,,35-16,1,up10.0,McCullers,Asher,,2:58,D,"34,720",1.03,++++,2017
+52,"Monday, May 29",HOU,MIN,W,16,8,,36-16,1,up11.0,Jankowski,Breslow,,3:44,D,"24,472",.93,+++++,2017
+53,"Tuesday, May 30",HOU,MIN,W,7,2,,37-16,1,up11.0,Fiers,Berríos,,3:01,N,"22,616",.87,++++++,2017
+54,"Wednesday, May 31",HOU,MIN,W,17,6,,38-16,1,up11.0,Feliz,Santiago,,3:35,D,"25,593",.82,+++++++,2017
+55,"Friday, Jun 2",HOU,TEX,W,7,1,,39-16,1,up12.5,Keuchel,Darvish,,2:58,N,"39,729",.85,++++++++,2017
+56,"Saturday, Jun 3",HOU,TEX,W,6,5,,40-16,1,up12.5,Devenski,Cashner,Giles,3:46,N,"44,168",.71,+++++++++,2017
+57,"Sunday, Jun 4",HOU,TEX,W,7,2,,41-16,1,up13.5,Peacock,Pérez,,3:18,D,"39,204",.68,++++++++++,2017
+58,"Monday, Jun 5",HOU,KCR,W,7,3,,42-16,1,up14.0,Fiers,Kennedy,,3:09,N,"21,892",.49,+++++++++++,2017
+59,"Tuesday, Jun 6",HOU,KCR,L-wo,7,9,,42-17,1,up13.0,Minor,Giles,,3:10,N,"20,974",.46,-,2017
+60,"Wednesday, Jun 7",HOU,KCR,L,5,7,,42-18,1,up12.0,Vargas,Díaz,Herrera,3:11,N,"25,628",.55,--,2017
+61,"Thursday, Jun 8",HOU,KCR,W,6,1,,43-18,1,up13.0,Harris,Herrera,,2:39,N,"32,747",.56,+,2017
+62,"Friday, Jun 9",HOU,LAA,L,4,9,,43-19,1,up12.0,Shoemaker,Peacock,,3:20,N,"40,786",.63,-,2017
+63,"Saturday, Jun 10",HOU,LAA,W,3,1,,44-19,1,up13.0,Fiers,Nolasco,Giles,2:52,D,"41,296",.73,+,2017
+64,"Sunday, Jun 11",HOU,LAA,L,6,12,,44-20,1,up12.0,Middleton,Feliz,,3:39,D,"32,425",.63,-,2017
+65,"Monday, Jun 12",HOU,TEX,L,1,6,,44-21,1,up12.0,Darvish,Musgrove,,3:23,N,"25,698",.69,--,2017
+66,"Tuesday, Jun 13",HOU,TEX,L,2,4,,44-22,1,up11.0,Leclerc,Gregerson,Bush,3:07,N,"27,615",.78,---,2017
+67,"Wednesday, Jun 14",HOU,TEX,W,13,2,,45-22,1,up11.0,Martes,Cashner,,3:37,N,"37,221",.94,+,2017
+68,"Friday, Jun 16",HOU,BOS,L,1,2,,45-23,1,up11.0,Kelly,Harris,Kimbrel,3:11,N,"36,189",.69,-,2017
+69,"Saturday, Jun 17",HOU,BOS,W,7,1,,46-23,1,up11.0,Paulino,Porcello,,2:34,N,"41,017",.73,+,2017
+70,"Sunday, Jun 18",HOU,BOS,L,5,6,,46-24,1,up11.0,Price,Musgrove,Kimbrel,4:08,N,"38,389",.66,-,2017
+71,"Monday, Jun 19",HOU,OAK,W,4,1,,47-24,1,up12.0,Peacock,Gossett,Giles,2:56,N,"10,482",.75,+,2017
+72,"Tuesday, Jun 20",HOU,OAK,W,8,4,,48-24,1,up12.0,Martes,Gray,,3:28,N,"15,362",.65,++,2017
+73,"Wednesday, Jun 21",HOU,OAK,W,5,1,,49-24,1,up12.5,Fiers,Manaea,,3:06,N,"12,277",.62,+++,2017
+74,"Thursday, Jun 22",HOU,OAK,W,12,9,,50-24,1,up12.5,Paulino,Hahn,Devenski,3:24,D,"18,747",.50,++++,2017
+75,"Friday, Jun 23",HOU,SEA,L,3,13,,50-25,1,up11.5,Hernández,Musgrove,Gallardo,3:17,N,"31,783",.58,-,2017
+76,"Saturday, Jun 24",HOU,SEA,W,5,2,,51-25,1,up12.5,McCullers,Gaviglio,,3:09,N,"29,820",.66,+,2017
+77,"Sunday, Jun 25",HOU,SEA,W,8,2,,52-25,1,up13.0,Feliz,Miranda,,3:21,D,"33,010",.53,++,2017
+78,"Tuesday, Jun 27",HOU,OAK,L,4,6,,52-26,1,up12.5,Manaea,Fiers,Casilla,3:30,N,"28,312",.43,-,2017
+79,"Wednesday, Jun 28",HOU,OAK,W,11,8,,53-26,1,up12.5,Feliz,Hahn,Giles,3:27,N,"34,075",.47,+,2017
+80,"Thursday, Jun 29",HOU,OAK,W,6,1,,54-26,1,up13.5,Peacock,Gossett,,3:08,D,"29,509",.41,++,2017
+81,"Friday, Jun 30",HOU,NYY,L,4,13,,54-27,1,up13.5,Pineda,Feliz,Mitchell,3:20,N,"40,024",.34,-,2017
+82,"Saturday, Jul 1",HOU,NYY,W,7,6,,55-27,1,up13.5,Díaz,Betances,Giles,3:25,N,"41,010",.33,+,2017
+83,"Sunday, Jul 2",HOU,NYY,W,8,1,,56-27,1,up14.5,Devenski,Severino,,3:29,D,"41,761",.32,++,2017
+84,"Tuesday, Jul 4",HOU,ATL,W,16,4,,57-27,1,up16.0,Peacock,Newcomb,,3:39,N,"41,456",.21,+++,2017
+85,"Wednesday, Jul 5",HOU,ATL,W,10,4,,58-27,1,up16.0,Devenski,García,,3:21,N,"37,278",.17,++++,2017
+86,"Thursday, Jul 6",HOU,TOR,L,4,7,,58-28,1,up15.5,Liriano,McCullers,Osuna,3:18,N,"40,949",.13,-,2017
+87,"Friday, Jul 7",HOU,TOR,W,12,2,,59-28,1,up16.5,Morton,Sanchez,,3:00,N,"37,332",.18,+,2017
+88,"Saturday, Jul 8",HOU,TOR,L,2,7,,59-29,1,up15.5,Stroman,Fiers,,2:44,D,"46,659",.15,-,2017
+89,"Sunday, Jul 9",HOU,TOR,W,19,1,,60-29,1,up16.5,Peacock,Happ,,3:24,D,"46,622",.15,+,2017
+90,"Friday, Jul 14",HOU,MIN,W,10,5,,61-29,1,up16.5,Morton,Berríos,,3:42,N,"38,006",.14,++,2017
+91,"Saturday, Jul 15",HOU,MIN,L,2,4,,61-30,1,up15.5,Santana,Musgrove,Kintzler,3:21,N,"41,038",.11,-,2017
+92,"Sunday, Jul 16",HOU,MIN,W,5,3,,62-30,1,up16.5,Fiers,Gibson,Giles,2:47,D,"38,253",.14,+,2017
+93,"Monday, Jul 17",HOU,SEA,L,7,9,10,62-31,1,up15.5,Gallardo,Sipp,Díaz,3:49,N,"24,701",.13,-,2017
+94,"Tuesday, Jul 18",HOU,SEA,W,6,2,,63-31,1,up16.5,Peacock,Gaviglio,Gregerson,3:02,N,"27,111",.16,+,2017
+95,"Wednesday, Jul 19",HOU,SEA,L,1,4,,63-32,1,up15.5,Paxton,Morton,Díaz,2:51,D,"35,191",.12,-,2017
+96,"Friday, Jul 21",HOU,BAL,W,8,7,,64-32,1,up17.0,Fiers,Jiménez,Giles,3:02,N,"25,784",.12,+,2017
+97,"Saturday, Jul 22",HOU,BAL,W,8,4,,65-32,1,up17.0,Martes,O'Day,,3:28,N,"32,524",.07,++,2017
+98,"Sunday, Jul 23",HOU,BAL,L,7,9,,65-33,1,up17.0,Givens,Gregerson,Britton,3:24,D,"21,533",.07,-,2017
+99,"Monday, Jul 24",HOU,PHI,W,13,4,,66-33,1,up17.0,Musgrove,Velasquez,,3:27,N,"17,567",.09,+,2017
+100,"Tuesday, Jul 25",HOU,PHI,W,5,0,,67-33,1,up17.0,Morton,Pivetta,,2:44,N,"17,176",.08,++,2017
+101,"Wednesday, Jul 26",HOU,PHI,L,0,9,,67-34,1,up17.0,Nola,Fiers,,3:25,N,"19,718",.06,-,2017
+102,"Friday, Jul 28",HOU,DET,W,6,5,,68-34,1,up18.0,Peacock,Rondón,Giles,2:54,N,"30,358",.06,+,2017
+103,"Saturday, Jul 29",HOU,DET,L,3,5,,68-35,1,up17.0,Boyd,Martes,Wilson,2:41,N,"33,766",.06,-,2017
+104,"Sunday, Jul 30",HOU,DET,L,1,13,,68-36,1,up16.0,Verlander,McCullers,,3:26,D,"31,970",.06,--,2017
+105,"Monday, Jul 31",HOU,TBR,W,14,7,,69-36,1,up16.0,Morton,Cobb,,3:24,N,"24,154",.08,+,2017
+106,"Tuesday, Aug 1",HOU,TBR,L,4,6,,69-37,1,up15.0,Archer,Fiers,Colomé,3:27,N,"22,985",.05,-,2017
+107,"Wednesday, Aug 2",HOU,TBR,L,0,3,,69-38,1,up15.0,Pruitt,Keuchel,Colomé,3:06,N,"26,722",.07,--,2017
+108,"Thursday, Aug 3",HOU,TBR,L,3,5,,69-39,1,up15.0,Boxberger,Liriano,Colomé,3:23,N,"23,404",.08,---,2017
+109,"Friday, Aug 4",HOU,TOR,W,16,7,,70-39,1,up15.0,Peacock,Valdez,,3:05,N,"39,287",.10,+,2017
+110,"Saturday, Aug 5",HOU,TOR,L,3,4,10,70-40,1,up14.5,Tepera,Liriano,Osuna,3:16,N,"41,950",.08,-,2017
+111,"Sunday, Aug 6",HOU,TOR,W-wo,7,6,,71-40,1,up15.0,Martes,Osuna,,3:16,D,"36,300",.10,+,2017
+112,"Tuesday, Aug 8",HOU,CHW,L,5,8,,71-41,1,up14.0,Holland,Keuchel,Clippard,3:37,N,"13,974",.08,-,2017
+113,"Wednesday, Aug 9",HOU,CHW,L,1,7,,71-42,1,up13.0,González,McHugh,,2:54,N,"14,824",.11,--,2017
+114,"Thursday, Aug 10",HOU,CHW,L-wo,2,3,11,71-43,1,up13.0,Holmberg,Martes,,3:41,N,"18,034",.12,---,2017
+115,"Friday, Aug 11",HOU,TEX,L,4,6,,71-44,1,up13.0,Hamels,Morton,,3:22,N,"33,897",.13,----,2017
+116,"Saturday, Aug 12",HOU,TEX,L,3,8,,71-45,1,up12.0,Ross,Fiers,,3:14,N,"47,306",.18,-----,2017
+117,"Sunday, Aug 13",HOU,TEX,W,2,1,,72-45,1,up12.0,Keuchel,Cashner,Giles,3:04,D,"31,517",.20,+,2017
+118,"Monday, Aug 14",HOU,ARI,L,0,2,,72-46,1,up11.5,Greinke,McHugh,Rodney,2:48,N,"20,405",.13,-,2017
+119,"Tuesday, Aug 15",HOU,ARI,W,9,4,,73-46,1,up12.5,Martes,Banda,,3:07,D,"16,935",.17,+,2017
+120,"Wednesday, Aug 16",HOU,ARI,W,9,5,,74-46,1,up12.5,Morton,Walker,,3:17,N,"27,278",.15,++,2017
+121,"Thursday, Aug 17",HOU,ARI,L,0,4,,74-47,1,up12.0,Corbin,Fiers,,2:48,D,"27,949",.12,-,2017
+122,"Friday, Aug 18",HOU,OAK,W,3,1,,75-47,1,up13.0,Keuchel,Manaea,Giles,2:47,N,"30,908",.16,+,2017
+123,"Saturday, Aug 19",HOU,OAK,W,3,0,,76-47,1,up13.0,McHugh,Graveman,Clippard,2:47,N,"32,796",.11,++,2017
+124,"Sunday, Aug 20",HOU,OAK,L,2,3,,76-48,1,up12.0,Cotton,Peacock,Treinen,3:17,D,"34,011",.09,-,2017
+125,"Tuesday, Aug 22",HOU,WSN,L,3,4,,76-49,1,up11.5,Roark,Morton,Doolittle,3:05,N,"23,798",.19,--,2017
+126,"Wednesday, Aug 23",HOU,WSN,W,6,1,,77-49,1,up12.5,Fiers,Jackson,,2:48,N,"23,434",.17,+,2017
+127,"Thursday, Aug 24",HOU,WSN,L,4,5,11,77-50,1,up12.5,Albers,Clippard,Solís,3:47,N,"24,761",.17,-,2017
+128,"Friday, Aug 25",HOU,LAA,W,2,1,,78-50,1,up12.5,McHugh,Bridwell,Giles,2:56,N,"42,333",.20,+,2017
+129,"Saturday, Aug 26",HOU,LAA,L,6,7,,78-51,1,up12.5,Wood,Clippard,Parker,3:01,N,"41,101",.10,-,2017
+130,"Sunday, Aug 27",HOU,LAA,W,7,5,,79-51,1,up13.5,Musgrove,Bedrosian,Giles,3:16,D,"37,606",.14,+,2017
+131,"Tuesday, Aug 29",HOU,TEX,L,2,12,,79-52,1,up12.0,Pérez,Fiers,,3:27,N,"3,485",.10,-,2017
+132,"Wednesday, Aug 30",HOU,TEX,L,1,8,,79-53,1,up11.0,Cashner,Keuchel,,2:52,N,"6,123",.13,--,2017
+133,"Thursday, Aug 31",HOU,TEX,W,5,1,,80-53,1,up11.5,Devenski,Martinez,Giles,3:02,D,"3,385",.17,+,2017
+134,"Saturday, Sep 2(1)",HOU,NYM,W,12,8,,81-53,1,up12.5,Morton,Harvey,,3:27,D,"30,319",.18,++,2017
+135,"Saturday, Sep 2(2)",HOU,NYM,W,4,1,,82-53,1,up12.5,Musgrove,Lugo,Giles,3:15,N,"34,904",.17,+++,2017
+136,"Sunday, Sep 3",HOU,NYM,W,8,6,,83-53,1,up13.5,Harris,Flexen,Devenski,3:14,D,"32,065",.10,++++,2017
+137,"Monday, Sep 4",HOU,SEA,W,6,2,,84-53,1,up13.5,Keuchel,Rzepczynski,,2:53,D,"20,108",.08,+++++,2017
+138,"Tuesday, Sep 5",HOU,SEA,W,3,1,,85-53,1,up13.5,Verlander,Pazos,Giles,3:07,N,"14,568",.06,++++++,2017
+139,"Wednesday, Sep 6",HOU,SEA,W,5,3,,86-53,1,up14.5,Devenski,Díaz,,2:46,N,"15,104",.07,+++++++,2017
+140,"Friday, Sep 8",HOU,OAK,L-wo,8,9,,86-54,1,up14.5,Treinen,Giles,,3:06,N,"12,288",.08,-,2017
+141,"Saturday, Sep 9(1)",HOU,OAK,L,1,11,,86-55,1,up14.0,Gossett,Morton,,3:42,D,,.10,--,2017
+142,"Saturday, Sep 9(2)",HOU,OAK,L,4,11,,86-56,1,up14.0,Hatcher,Devenski,,2:48,N,"19,244",.10,---,2017
+143,"Sunday, Sep 10",HOU,OAK,L,2,10,,86-57,1,up13.0,Graveman,Keuchel,,3:48,D,"15,892",.17,----,2017
+144,"Tuesday, Sep 12",HOU,LAA,W,1,0,,87-57,1,up14.0,Verlander,Richards,Giles,2:51,N,"36,088",.14,+,2017
+145,"Wednesday, Sep 13",HOU,LAA,L,1,9,,87-58,1,up13.0,Skaggs,Fiers,,2:28,N,"33,899",.13,-,2017
+146,"Thursday, Sep 14",HOU,LAA,W,5,2,,88-58,1,up14.0,Peacock,Nolasco,,3:20,N,"35,715",.12,+,2017
+147,"Friday, Sep 15",HOU,SEA,W,5,2,,89-58,1,up14.0,Morton,Paxton,Giles,3:12,N,"28,328",.13,++,2017
+148,"Saturday, Sep 16",HOU,SEA,W,8,6,,90-58,1,up14.0,Keuchel,Ramírez,Musgrove,3:21,D,"33,650",.15,+++,2017
+149,"Sunday, Sep 17",HOU,SEA,W,7,1,,91-58,1,up15.0,Verlander,Moore,,2:50,D,"30,247",.12,++++,2017
+150,"Tuesday, Sep 19",HOU,CHW,W,3,1,,92-58,1,up16.0,McHugh,Giolito,Giles,2:47,N,"23,293",.13,+++++,2017
+151,"Wednesday, Sep 20",HOU,CHW,W,4,3,,93-58,1,up17.0,Peacock,Shields,Musgrove,3:08,N,"24,995",.12,++++++,2017
+152,"Thursday, Sep 21",HOU,CHW,L,1,3,,93-59,1,up17.0,Volstad,Keuchel,Minaya,3:17,N,"24,283",.11,-,2017
+153,"Friday, Sep 22",HOU,LAA,W,3,0,,94-59,1,up18.0,Verlander,Petit,Giles,3:00,N,"34,127",.12,+,2017
+154,"Saturday, Sep 23",HOU,LAA,W,6,2,,95-59,1,up19.0,Morton,Norris,,2:38,D,"34,035",.13,++,2017
+155,"Sunday, Sep 24",HOU,LAA,L,5,7,,95-60,1,up18.0,Middleton,Devenski,Parker,3:49,N,"36,756",.12,-,2017
+156,"Monday, Sep 25",HOU,TEX,W,11,2,,96-60,1,up19.0,McHugh,Cashner,,3:33,N,"30,390",.13,+,2017
+157,"Tuesday, Sep 26",HOU,TEX,W,14,3,,97-60,1,up19.0,Keuchel,Hamels,,3:23,N,"28,976",.10,++,2017
+158,"Wednesday, Sep 27",HOU,TEX,W,12,2,,98-60,1,up20.0,Verlander,Martinez,,3:17,D,"26,053",.18,+++,2017
+159,"Thursday, Sep 28",HOU,BOS,W,12,2,,99-60,1,up21.0,Peacock,Rodriguez,,3:31,N,"34,222",.10,++++,2017
+160,"Friday, Sep 29",HOU,BOS,W,3,2,,100-60,1,up21.0,Morton,Fister,Giles,2:47,N,"36,623",.07,+++++,2017
+161,"Saturday, Sep 30",HOU,BOS,L,3,6,,100-61,1,up21.0,Pomeranz,McCullers,,3:19,D,"35,722",.14,-,2017
+162,"Sunday, Oct 1",HOU,BOS,W,4,3,,101-61,1,up21.0,McHugh,Abad,Clippard,3:09,D,"34,517",.12,+,2017
