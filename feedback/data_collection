@@ -1,0 +1,5 @@
+	Justin Ross said:
+    ⁃ For your data collection post, you’ve got a good walkthrough of your webscraping function and your loop to clean the data. I would suggest maybe bolding the official steps just so they stand out a little more from the bullet points and code. (Ie. ‘Define Function’, ‘Get HTML Content’). I think that would improve the readability of the post, but everything looks great overall!
+
+    Nate Lewis said: 
+    - This is kind of a nitpick but I noticed some bullet points end with periods and others end without punctuation, so maybe make that more consistent.
